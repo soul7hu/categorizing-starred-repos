@@ -3,8 +3,8 @@
 > این فایل به‌صورت خودکار از روی `data/catalog.json` ساخته می‌شود — دستی ویرایشش نکنید.
 > This file is auto-generated from `data/catalog.json` — do not edit manually.
 
-**آخرین به‌روزرسانی / Last updated:** 2026-08-30 09:21:56 UTC
-**تعداد کل ریپوها / Total repos:** 44
+**آخرین به‌روزرسانی / Last updated:** 2026-08-30 20:24:10 UTC
+**تعداد کل ریپوها / Total repos:** 52
 
 ---
 
@@ -13,12 +13,13 @@
 - [AI & LLM Tools](#ai--llm-tools) (20 ریپو)
 - [Data & Visualization](#data--visualization) (2 ریپو)
 - [Design & UI/UX](#design--uiux) (2 ریپو)
-- [Developer Tools](#developer-tools) (3 ریپو)
+- [Developer Tools](#developer-tools) (4 ریپو)
 - [Learning & Educational](#learning--educational) (6 ریپو)
-- [Mobile Development](#mobile-development) (2 ریپو)
+- [Mobile Development](#mobile-development) (3 ریپو)
 - [Persian / Farsi Tools](#persian--farsi-tools) (3 ریپو)
-- [Productivity & Utilities](#productivity--utilities) (4 ریپو)
+- [Productivity & Utilities](#productivity--utilities) (8 ریپو)
 - [Web & Frontend](#web--frontend) (2 ریپو)
+- [نیازمند بررسی](#نیازمند-بررسی) (2 ریپو)
 
 ---
 
@@ -256,6 +257,14 @@ OpenWiki یک ابزار خط فرمان است که مستندات کد را ب
 - **استار:** ⭐ 15830
 - **برچسب‌ها:** `cli`, `documentation`, `wiki`, `codebase`, `ai-agents`
 
+#### [Rainman69/MTPCH](https://github.com/Rainman69/MTPCH)
+ابزار بررسی واقعی بودن پراکسی‌های ام‌تی‌پروتو تلگرام با انجام هندشیک کامل، نه صرفاً بررسی باز بودن پورت.
+
+- **کاربرد:** MTProto proxy checker that verifies real Telegram connectivity via full handshake, not just open ports
+- **زبان:** Python
+- **استار:** ⭐ 11
+- **برچسب‌ها:** `telegram`, `mtproto`, `proxy`, `checker`, `python`, `cli`
+
 ## Learning & Educational
 
 ### Courses
@@ -326,6 +335,14 @@ CCloud یک برنامه Android نوشته‌شده با Kotlin برای است
 
 ### Cross-platform
 
+#### [IRNova/Nova-Client](https://github.com/IRNova/Nova-Client)
+کلاینت چندپلتفرمی برای اکوسیستم Nova با اسکنر آی‌پی تمیز داخلی، بر پایه‌ی Karing و با رابط دوزبانه‌ی فارسی/انگلیسی.
+
+- **کاربرد:** Multi-platform proxy client for the Nova ecosystem with built-in clean-IP scanner, based on Karing
+- **زبان:** Not specified
+- **استار:** ⭐ 160
+- **برچسب‌ها:** `proxy`, `flutter`, `android`, `network`, `iran`, `karing`
+
 #### [taymakz/tehgo](https://github.com/taymakz/tehgo)
 TehGo یک نقشه و مسیریاب متن‌باز و دوزبانه برای متروی تهران و کرج است که روی وب و اندروید اجرا می‌شود و قابلیت استفاده آفلاین نیز دارد.
 
@@ -361,6 +378,38 @@ Persian Address Parser یک کتابخانه TypeScript بدون وابستگی 
 - **برچسب‌ها:** `persian`, `address-parser`, `typescript`, `data-processing`, `farsi`
 
 ## Productivity & Utilities
+
+#### [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)
+پلتفرم متن‌باز ویرایش پی‌دی‌اف با قابلیت اجرا روی هر دستگاه؛ شامل ویرایش، امضا، تبدیل، ادغام و OCR فایل‌های پی‌دی‌اف.
+
+- **کاربرد:** Open-source PDF editing platform for editing, signing, converting and merging PDFs locally or self-hosted
+- **زبان:** Java
+- **استار:** ⭐ 90986
+- **برچسب‌ها:** `pdf`, `java`, `self-hosted`, `docker`, `document`, `editor`
+
+#### [MSC72m/media_downloader](https://github.com/MSC72m/media_downloader)
+اپلیکیشن دسکتاپ چندپلتفرمی برای دانلود ویدیو و موسیقی از یوتیوب، اسپاتیفای، تیک‌تاک، اینستاگرام، توییتر و چند پلتفرم دیگر.
+
+- **کاربرد:** Cross-platform desktop app for downloading videos and music from 8 platforms including YouTube, Spotify and TikTok
+- **زبان:** Python
+- **استار:** ⭐ 270
+- **برچسب‌ها:** `downloader`, `youtube`, `spotify`, `python`, `desktop`, `yt-dlp`
+
+#### [amiralibg/unstream](https://github.com/amiralibg/unstream)
+ابزار تبدیل لینک آهنگ، آلبوم یا پلی‌لیست از اسپاتیفای، اپل‌موزیک، یوتیوب و سایر سرویس‌ها به فایل‌های صوتی تگ‌شده، بدون نیاز به حساب کاربری.
+
+- **کاربرد:** Converts streaming service URLs from Spotify, Deezer, Apple Music, YouTube and SoundCloud into tagged MP3 files
+- **زبان:** TypeScript
+- **استار:** ⭐ 232
+- **برچسب‌ها:** `music`, `downloader`, `spotify`, `typescript`, `mp3`, `streaming`
+
+#### [Aporis3674/TelegramFreeRich](https://github.com/Aporis3674/TelegramFreeRich)
+ویرایشگر متنی پیشرفته برای تلگرام بدون نیاز به اشتراک پریمیوم، ساخته‌شده با Electron و React.
+
+- **کاربرد:** Free rich text editor for Telegram that enables formatting without a Premium subscription
+- **زبان:** JavaScript
+- **استار:** ⭐ 19
+- **برچسب‌ها:** `telegram`, `rich-text`, `electron`, `react`, `desktop`
 
 ### RSS/News Readers
 
@@ -417,3 +466,21 @@ PersianLabs/ui یک کتابخانه کامپوننت برای رابط‌های
 - **زبان:** TypeScript
 - **استار:** ⭐ 116
 - **برچسب‌ها:** `persian`, `rtl`, `ui-components`, `shadcn`, `nextjs`, `frontend`
+
+---
+
+## نیازمند بررسی
+
+این ریپوها با اطمینان پایین دسته‌بندی شده‌اند و بهتر است دستی بررسی شوند.
+
+#### [ShahabSL/Skirk](https://github.com/ShahabSL/Skirk)
+ابزار انتقال ترافیک رمزنگاری‌شده‌ی TCP از طریق پوشه‌ی گوگل‌درایو برای دور زدن محدودیت‌های شبکه، با کلاینت دسکتاپ و اندروید.
+
+- **دسته پیشنهادی:** Developer Tools
+- **اطمینان:** medium
+
+#### [iv-org/invidious](https://github.com/iv-org/invidious)
+رابط کاربری جایگزین و متن‌باز برای یوتیوب با تمرکز بر حریم خصوصی، بدون ردیابی و تبلیغات؛ قابل میزبانی شخصی.
+
+- **دسته پیشنهادی:** Web & Frontend
+- **اطمینان:** medium
