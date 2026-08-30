@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "id": 1227325025,
+      "repo": "ShahabSL/Skirk",
+      "url": "https://github.com/ShahabSL/Skirk",
+      "description": "Encrypted, multiplexed TCP transport through a Google Drive mailbox, with desktop and Android clients.",
+      "language": "Go",
+      "topics": [],
+      "stars": 783,
+      "readme_snippet": "# Skirk\n\n[فارسی](README.fa.md)\n\n<p align=\"center\">\n  <img src=\"assets/logo.png\" alt=\"Skirk logo\" width=\"160\">\n</p>\n\n## Donate\n\nIf Skirk is useful to you, donations help fund testing infrastructure and\nmaintenance:\n\n- USDT: `0x5d0b46d821910a5a5503de78e230f9a5e9c52c2f`\n- BTC: `bc1q8qsxlp7pzgdqkhu2aj5ss3krnkrecyrh6hedpj`\n- ETH: `0x5d0b46d821910a5a5503de78e230f9a5e9c52c2f`\n- TON: `UQAO9dEwEVIrrTwoWzCd3Rksb6r3qFSs80Xa7yp3nkO4CPyp`\n\nSkirk is a Go-first transport for restricted-network testing. It exposes a local\nSOCKS5 proxy, optional HTTP proxy, or Android VPN frontend, then moves encrypted\nTCP stream frames through a Google Drive mailbox folder to an exit\nmachine with normal internet egress.\n\nSkirk is for lawful, authorized, owned-account and owned-network use only. It is\nnot affiliated with or endorsed by Google, Google Cloud, Google Drive,\nCloudflare, GitHub, Microsoft, Android, or any other provider. Read\n[DISCLAIMER.md](DISCLAIMER.md) before using or redistributing it.\n\n## What You Nee"
+    },
+    {
+      "id": 1296280671,
+      "repo": "IRNova/Nova-Client",
+      "url": "https://github.com/IRNova/Nova-Client",
+      "description": "Nova Client is the companion app for the Nova ecosystem — a lightweight, multi-platform client that connects seamlessly to your Nova Server.",
+      "language": "Not specified",
+      "topics": [],
+      "stars": 160,
+      "readme_snippet": "<div align=\"center\">\n\n<div align=\"right\">\n  <a href=\"README.fa.md\"><img src=\"https://raw.githubusercontent.com/IRNova/Nova-Proxy/main/flag-iran.svg\" height=\"16\" alt=\"فارسی\" /> فارسی</a>\n</div>\n\n<a id=\"-nova-client\"></a>\n<img src=\"assets/readme/hero.svg\" width=\"100%\" alt=\"Nova Client, an optimised Nova-branded proxy client with the Nova Radar Cloudflare clean-IP scanner built in. Built in Flutter, dark-first, bilingual (English and Persian), Android shipped.\" />\n\nA streamlined [Karing](https://github.com/KaringX/karing) fork, following the [Nova Proxy](https://github.com/IRNova/Nova-Proxy) design language, with the [Nova Radar](https://github.com/IRNova/NovaRadar) clean-IP scanner built in.\n\n[![License](https://img.shields.io/badge/license-MIT-purple?style=for-the-badge)](LICENSE)\n[![Stars](https://img.shields.io/github/stars/IRNova/Nova-Client?style=for-the-badge&color=0ea5e9)](https://github.com/IRNova/Nova-Client)\n[![Developer](https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F"
+    },
+    {
+      "id": 1309217083,
+      "repo": "Aporis3674/TelegramFreeRich",
+      "url": "https://github.com/Aporis3674/TelegramFreeRich",
+      "description": "Free Rich Text Editor for Telegram",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 19,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/Aporis3674/TelegramFreeRich/master/telegram.svg\" width=\"110\" alt=\"TelegramFreeRich\">\n</p>\n\n<h1 align=\"center\">TelegramFreeRich</h1>\n\n<p align=\"center\"><strong>Telegram's rich text editor — for everyone, without Premium.</strong></p>\n<p align=\"center\"><em>Because bots should not have more rights than humans.</em></p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/version-5.5.0-2ca5e0\" alt=\"Version 5.5.0\">\n  <img src=\"https://img.shields.io/badge/Bot%20API-10.1-2ca5e0?logo=telegram&logoColor=white\" alt=\"Bot API 10.1\">\n  <img src=\"https://img.shields.io/badge/Electron-35-47848f?logo=electron&logoColor=white\" alt=\"Electron 35\">\n  <img src=\"https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=white\" alt=\"React 19\">\n  <img src=\"https://img.shields.io/badge/TipTap-2-8b5cf6\" alt=\"TipTap 2\">\n  <img src=\"https://img.shields.io/badge/tests-265%20passing-4fc3a1\" alt=\"265 tests\">\n  <img src=\"https://img.shie"
+    },
+    {
+      "id": 120542434,
+      "repo": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "topics": [
+        "agplv3",
+        "hacktoberfest",
+        "invidious",
+        "libre",
+        "video",
+        "watch",
+        "youtube",
+        "youtube-video"
+      ],
+      "stars": 22988,
+      "readme_snippet": "<div align=\"center\">\n  <img src=\"assets/invidious-colored-vector.svg\" width=\"192\" height=\"192\" alt=\"Invidious logo\">\n  <h1>Invidious</h1>\n\n  <a href=\"https://www.gnu.org/licenses/agpl-3.0.en.html\">\n    <img alt=\"License: AGPLv3\" src=\"https://shields.io/badge/License-AGPL%20v3-blue.svg\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/actions\">\n    <img alt=\"Build Status\" src=\"https://github.com/iv-org/invidious/workflows/Invidious%20CI/badge.svg\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/commits/master\">\n    <img alt=\"GitHub commits\" src=\"https://img.shields.io/github/commit-activity/y/iv-org/invidious?color=red&label=commits\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/issues\">\n    <img alt=\"GitHub issues\" src=\"https://img.shields.io/github/issues/iv-org/invidious?color=important\">\n  </a>\n  <a href=\"https://github.com/iv-org/invidious/pulls\">\n    <img alt=\"GitHub pull requests\" src=\"https://img.shields.io/github/issues-pr/iv-org/invidious?color=blueviolet"
+    },
+    {
+      "id": 1216813483,
+      "repo": "Rainman69/MTPCH",
+      "url": "https://github.com/Rainman69/MTPCH",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 12,
+      "readme_snippet": "# MTPCH — MTProto Proxy Checker\n\n> Tells you whether a Telegram MTProto proxy **really** connects you to\n> Telegram — not just whether the TCP port is open.\n\n```\n        __  _____________  ________  __\n       /  |/  /_  __/ __ \\/ ____/ / / /\n      / /|_/ / / / / /_/ / /   / /_/ /\n     / /  / / / / / ____/ /___/ __  /\n    /_/  /_/ /_/ /_/    \\____/_/ /_/\n```\n\nMTPCH performs the **full obfuscated MTProto handshake** through each proxy,\nasks a real Telegram datacenter for a handshake reply (`req_pq_multi` →\n`resPQ`), and reports a proxy as alive only when Telegram genuinely answers.\nPings and port scanners cannot do that.\n\nSupports all three transports — plain, `dd` (secure), and `ee` (Fake-TLS) —\nand ships with built-in proxy sources, so `python3 mtpch.py --builtin` works\nwith no list to find and no arguments to learn.\n\n- [English guide](#english-guide)\n- [راهنمای فارسی](#راهنمای-فارسی)\n\n---\n\n## English guide\n\n**Contents** · [Why](#why-mtpch) · [Install](#installation) ·\n[Quick start](#q"
+    },
+    {
+      "id": 594155488,
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "topics": [
+        "docker",
+        "hacktoberfest",
+        "java",
+        "pdf",
+        "pdf-converter",
+        "pdf-editor",
+        "pdf-manipulation",
+        "pdf-merger",
+        "pdf-ocr",
+        "pdf-tools",
+        "pdf-web-apps",
+        "pdfmerger",
+        "self-hosted"
+      ],
+      "stars": 90989,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"https://raw.githubusercontent.com/Stirling-Tools/Stirling-PDF/main/docs/stirling.png\" width=\"80\" alt=\"Stirling PDF logo\">\n</p>\n\n<h1 align=\"center\">Stirling PDF - The Open-Source PDF Platform</h1>\n\nStirling PDF is a powerful, open-source PDF editing platform. Run it as a personal desktop app, in the browser, or deploy it on your own servers with a private API. Edit, sign, redact, convert, and automate PDFs without sending documents to external services.\n\n<p align=\"center\">\n  <a href=\"https://hub.docker.com/r/stirlingtools/stirling-pdf\">\n    <img src=\"https://img.shields.io/docker/pulls/frooodle/s-pdf\" alt=\"Docker Pulls\">\n  </a>\n  <a href=\"https://discord.gg/HYmhKj45pU\">\n    <img src=\"https://img.shields.io/discord/1068636748814483718?label=Discord\" alt=\"Discord\">\n  </a>\n  <a href=\"https://scorecard.dev/viewer/?uri=github.com/Stirling-Tools/Stirling-PDF\">\n    <img src=\"https://api.scorecard.dev/projects/github.com/Stirling-Tools/Stirling-PDF/badge\" alt=\"Ope"
+    },
+    {
+      "id": 803778225,
+      "repo": "MSC72m/media_downloader",
+      "url": "https://github.com/MSC72m/media_downloader",
+      "description": "Save any video or song from YouTube, Spotify, TikTok, Instagram, Twitter, Pinterest, SoundCloud and RadioJavan. Works on Windows, Mac and Linux.",
+      "language": "Python",
+      "topics": [
+        "cross-platform",
+        "customtkinter",
+        "desktop-application",
+        "instagram-downloader",
+        "media-downloader",
+        "music-downloader",
+        "pinterest-downloader",
+        "python-gui",
+        "soundcloud-downloader",
+        "spotify-downloader",
+        "tiktok-downloader",
+        "twitter-downloader",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp"
+      ],
+      "stars": 270,
+      "readme_snippet": "# Media Downloader\n\n![Media Downloader](assets/media_downloader.ico)\n\nA cross-platform desktop application for downloading media from 8 platforms — videos, music, podcasts, and playlists — with a modern, themeable UI.\n\n[![Version](https://img.shields.io/badge/Version-1.2.2-green.svg)](https://github.com/MSC72m/media_downloader/releases)\n[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/)\n[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)\n[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()\n[![Windows Installer](https://img.shields.io/badge/Windows-Installer-blue?logo=windows)](https://github.com/MSC72m/media_downloader/releases/latest)\n\n## Supported Platforms\n\n[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)\n[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&"
+    },
+    {
+      "id": 1327824705,
+      "repo": "amiralibg/unstream",
+      "url": "https://github.com/amiralibg/unstream",
+      "description": "paste a Spotify / Deezer / Apple Music / YouTube / SoundCloud track, album or playlist URL — or search every catalog at once — and get tagged mp3 files. No accounts, no API keys, nothing paid.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 232,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"frontend/public/icon-192.png\" width=\"96\" alt=\"Unstream app icon\" />\n</p>\n\n<h1 align=\"center\">Unstream</h1>\n\n<p align=\"center\">\n  <img src=\"docs/media/hero.png\" alt=\"Unstream — your music library, as files\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"#quick-start\"><b>Quick start</b></a> ·\n  <a href=\"#configuration\">Configuration</a> ·\n  <a href=\"#when-downloads-fail\">Troubleshooting</a> ·\n  <a href=\"README.fa.md\">فارسی</a>\n</p>\n\nPaste a **Spotify / Deezer / Apple Music / YouTube / SoundCloud** track, album or playlist URL — or search every catalog at once — and get tagged audio files at the quality you pick (128 / 192 / 320 kbps mp3, or the original stream untouched).\n\nNo accounts. No API keys. Nothing paid. You run it, so the files are yours and nobody is standing in between.\n\n> The interface ships in **Farsi and English**, switchable from the header. Farsi is the default because that is the audience it was built for ([why](docs/DESIGN.md#farsi-only)); set `UN"
+    }
+  ]
+}
