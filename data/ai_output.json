@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1227325025,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "Provides encrypted TCP transport tunneling through Google Drive to bypass network restrictions.",
+    "description_fa": "این پروژه یک ابزار تونل‌زنی و پروکسی است که ترافیک TCP را به‌صورت رمزنگاری‌شده از طریق گوگل درایو منتقل می‌کند تا محدودیت‌های شبکه را دور بزند.",
+    "tags": [
+      "proxy",
+      "tunnel",
+      "network",
+      "bypass"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1296280671,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "A multi-platform proxy client with built-in clean-IP scanner for connecting to proxy servers.",
+    "description_fa": "نوا کلاینت یک برنامه پروکسی چندسکویی و سبک است که برای اتصال به سرورهای نوا طراحی شده و دارای اسکنر آی‌پی تمیز داخلی می‌باشد.",
+    "tags": [
+      "proxy",
+      "vpn",
+      "client",
+      "network"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1309217083,
+    "category": "Productivity & Utilities",
+    "subcategory": "",
+    "purpose": "A desktop rich text editor that allows users to format messages for Telegram without needing Telegram Premium.",
+    "description_fa": "این ابزار یک ویرایشگر متن پیشرفته برای دسکتاپ است که به کاربران امکان می‌دهد بدون نیاز به اکانت پریمیوم تلگرام، پیام‌های خود را با فرمت‌بندی Rich Text ارسال کنند.",
+    "tags": [
+      "telegram",
+      "text-editor",
+      "productivity",
+      "desktop"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 120542434,
+    "category": "Web & Frontend",
+    "subcategory": "",
+    "purpose": "An open-source, privacy-focused alternative front-end for watching YouTube videos without ads or tracking.",
+    "description_fa": "اینویدیوس یک جایگزین متن‌باز و متمرکز بر حریم خصوصی برای رابط کاربری یوتیوب است که به شما اجازه می‌دهد ویدیوها را بدون تبلیغات و ردیابی تماشا کنید.",
+    "tags": [
+      "youtube",
+      "privacy",
+      "frontend",
+      "web-app"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1216813483,
+    "category": "Developer Tools",
+    "subcategory": "CLI Tools",
+    "purpose": "A command-line tool to verify if Telegram MTProto proxies are genuinely alive and connecting to Telegram datacenters.",
+    "description_fa": "این ابزار خط فرمان بررسی می‌کند که آیا پروکسی‌های MTProto تلگرام واقعاً فعال هستند و به دیتاسنترهای تلگرام متصل می‌شوند یا خیر.",
+    "tags": [
+      "telegram",
+      "proxy",
+      "cli",
+      "network-testing"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 594155488,
+    "category": "Productivity & Utilities",
+    "subcategory": "",
+    "purpose": "A self-hosted, open-source web platform for editing, converting, signing, and automating PDF documents.",
+    "description_fa": "استرلینگ پی‌دی‌اف یک پلتفرم متن‌باز و قدرتمند برای ویرایش، تبدیل، امضا و مدیریت اسناد PDF است که می‌تواند به‌صورت شخصی یا روی سرورهای اختصاصی اجرا شود.",
+    "tags": [
+      "pdf",
+      "editor",
+      "productivity",
+      "self-hosted"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 803778225,
+    "category": "Productivity & Utilities",
+    "subcategory": "",
+    "purpose": "A cross-platform desktop application for downloading videos and music from various streaming platforms.",
+    "description_fa": "این یک برنامه دسکتاپ چندسکویی است که به شما امکان می‌دهد ویدیوها و آهنگ‌ها را از پلتفرم‌های مختلفی مانند یوتیوب، اسپاتیفای، تیک‌تاک و رادیو جوان دانلود کنید.",
+    "tags": [
+      "downloader",
+      "media",
+      "desktop-app",
+      "python"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  },
+  {
+    "id": 1327824705,
+    "category": "Persian / Farsi Tools",
+    "subcategory": "",
+    "purpose": "A web-based tool to download tagged MP3 files from major music streaming platforms without requiring accounts or API keys.",
+    "description_fa": "این ابزار تحت وب به شما اجازه می‌دهد با وارد کردن لینک آهنگ یا پلی‌لیست از سرویس‌های پخش موسیقی، فایل‌های MP3 با کیفیت و تگ‌دار را بدون نیاز به اکانت یا پرداخت هزینه دانلود کنید.",
+    "tags": [
+      "music-downloader",
+      "streaming",
+      "mp3",
+      "web-app"
+    ],
+    "confidence": "high",
+    "needs_review": false
+  }
+]
