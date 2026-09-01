@@ -1,3 +1,43 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": 1196821690,
+      "repo": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 7323,
+      "readme_snippet": "# ReClip\n\nA self-hosted, open-source video and audio downloader with a clean web UI. Paste links from YouTube, TikTok, Instagram, Twitter/X, and 1000+ other sites — download as MP4 or MP3.\n\n![Python](https://img.shields.io/badge/python-3.8+-blue)\n![License](https://img.shields.io/badge/license-MIT-green)\n\nhttps://github.com/user-attachments/assets/419d3e50-c933-444b-8cab-a9724986ba05\n\n![ReClip MP3 Mode](assets/preview-mp3.png)\n\n## Features\n\n- Download videos from 1000+ supported sites (via [yt-dlp](https://github.com/yt-dlp/yt-dlp))\n- MP4 video or MP3 audio extraction\n- Quality/resolution picker\n- Bulk downloads — paste multiple URLs at once\n- Automatic URL deduplication\n- Clean, responsive UI — no frameworks, no build step\n- Single Python file backend (~150 lines)\n\n## Quick Start\n\n```bash\nbrew install yt-dlp ffmpeg    # or apt install ffmpeg && pip install yt-dlp\ngit clone https://github.com/averygan/reclip.git\ncd reclip\n./reclip.sh\n```\n\nOpen **http://localhost:8899**.\n\nOr with Docker"
+    },
+    {
+      "id": 754327435,
+      "repo": "throneproj/Throne",
+      "url": "https://github.com/throneproj/Throne",
+      "description": "Cross-platform GUI proxy utility (Empowered by sing-box)",
+      "language": "C++",
+      "topics": [
+        "amneziawg",
+        "amneziawg2",
+        "amneziawg3",
+        "anytls",
+        "clash",
+        "linux",
+        "macos",
+        "mieru",
+        "nekobox",
+        "nekoray",
+        "proxy",
+        "reality",
+        "sing-box",
+        "v2ray",
+        "vless",
+        "vpn",
+        "windows",
+        "xhttp"
+      ],
+      "stars": 6967,
+      "readme_snippet": "# Throne (Formerly Nekoray)\n\nQt based Desktop cross-platform GUI proxy utility, empowered by [Sing-box](https://github.com/SagerNet/sing-box)\n\nSupports Windows 11/10/8/7 / Linux / MacOS out of the box.\n\n<img width=\"1002\" height=\"789\" alt=\"image\" src=\"https://github.com/user-attachments/assets/af4a8e32-7e55-430c-9402-ec2d665cf71a\" />\n\n### Note on MacOS releases\nApple platforms have a very strict security policy and since Throne does not have a signed certificate, you will have to remove the quarantine using `xattr -d com.apple.quarantine /path/to/throne.app`. Move `Throne.app` to `/Applications` before the first launch — the built-in privilege escalation opens `Terminal` to make the core setuid-root, and that step can fail while the app is still inside `~/Downloads`.\n\n### GitHub Releases (Portable ZIP)\n\n[![GitHub All Releases](https://img.shields.io/github/downloads/throneproj/Throne/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/throneproj/Throne/release"
+    }
+  ]
 }
