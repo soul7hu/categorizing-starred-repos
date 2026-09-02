@@ -38,6 +38,35 @@
       ],
       "stars": 6967,
       "readme_snippet": "# Throne (Formerly Nekoray)\n\nQt based Desktop cross-platform GUI proxy utility, empowered by [Sing-box](https://github.com/SagerNet/sing-box)\n\nSupports Windows 11/10/8/7 / Linux / MacOS out of the box.\n\n<img width=\"1002\" height=\"789\" alt=\"image\" src=\"https://github.com/user-attachments/assets/af4a8e32-7e55-430c-9402-ec2d665cf71a\" />\n\n### Note on MacOS releases\nApple platforms have a very strict security policy and since Throne does not have a signed certificate, you will have to remove the quarantine using `xattr -d com.apple.quarantine /path/to/throne.app`. Move `Throne.app` to `/Applications` before the first launch — the built-in privilege escalation opens `Terminal` to make the core setuid-root, and that step can fail while the app is still inside `~/Downloads`.\n\n### GitHub Releases (Portable ZIP)\n\n[![GitHub All Releases](https://img.shields.io/github/downloads/throneproj/Throne/total?label=downloads-total&logo=github&style=flat-square)](https://github.com/throneproj/Throne/release"
+    },
+    {
+      "id": 1353540386,
+      "repo": "THE-SAZ/Prompt-Maker",
+      "url": "https://github.com/THE-SAZ/Prompt-Maker",
+      "description": "My Special Prompt Maker for AI Chat Models is HERE !",
+      "language": "Not specified",
+      "topics": [
+        "ai",
+        "ai-chat",
+        "ai-chatbot",
+        "ai-model",
+        "ai-prompt",
+        "ai-prompts",
+        "prompt",
+        "prompt-maker"
+      ],
+      "stars": 4,
+      "readme_snippet": "\n<!-- ==================== TOP BANNER ==================== -->\n<p align=\"center\">\n  <img src=\"assets/banner.svg\" alt=\"Prompt Maker Banner\" width=\"100%\" />\n</p>\n\n<!-- ==================== BADGES ==================== -->\n<p align=\"center\">\n  <a href=\"https://github.com/THE-SAZ/prompt-maker/releases\">\n    <img src=\"https://img.shields.io/badge/version-0.0.4-blue?style=for-the-badge&logo=github\" alt=\"Version\">\n  </a>\n  <a href=\"https://github.com/THE-SAZ/prompt-maker/blob/main/LICENSE\">\n    <img src=\"https://img.shields.io/badge/license-MIT-green?style=for-the-badge\" alt=\"License\">\n  </a>\n  <a href=\"https://t.me/THE_SAZ\">\n    <img src=\"https://img.shields.io/badge/Telegram-@THE__SAZ-2CA5E0?style=for-the-badge&logo=telegram\" alt=\"Telegram\">\n  </a>\n  <a href=\"https://zaya.io/thesaz\">\n    <img src=\"https://img.shields.io/badge/Website-zaya.io%2Fthesaz-ff69b4?style=for-the-badge\" alt=\"Website\">\n  </a>\n  <a href=\"https://github.com/THE-SAZ\">\n    <img src=\"https://img.shields.io/badge/GitHub-THE"
+    },
+    {
+      "id": 1306836270,
+      "repo": "QW-AI-Code/Aether",
+      "url": "https://github.com/QW-AI-Code/Aether",
+      "description": "",
+      "language": "Rust",
+      "topics": [],
+      "stars": 322,
+      "readme_snippet": "# Aether Mobile\n\n> A stunning, dark **Material You** Android client for the Aether engine — with the tunnelling core built **inside the app**, so you no longer need v2rayNG.\n\n🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)\n\n---\n\n## What's new in v1.2.7\n\nEverything below is **new in this release**: what it does, and how to use it.\n\n### ⚙️ A completely new Settings screen\n\n**What it is.** Settings is now a screen of its own, laid out the way the system\napps on your phone lay theirs out: a list of **categories** you tap into, controls\n**grouped into cards**, and a choice presented as a full-width **bottom-sheet\npicker** with the current option ticked. Each category row shows its current value\non the right, so you can read your whole configuration without opening anything.\n\nThe categories are **Connection** (backend, exit country, protocol, scan mode, IP\nversion), **Transport & anti-DPI**, **DNS & routing rules**, **Upstream proxy**,\n**Apps & proxy**, **Security & stability**, **Share VPN**, **Langu"
     }
   ]
 }
