@@ -67,6 +67,16 @@
       "topics": [],
       "stars": 322,
       "readme_snippet": "# Aether Mobile\n\n> A stunning, dark **Material You** Android client for the Aether engine — with the tunnelling core built **inside the app**, so you no longer need v2rayNG.\n\n🇬🇧 English | 🇮🇷 [فارسی](README.fa.md)\n\n---\n\n## What's new in v1.2.7\n\nEverything below is **new in this release**: what it does, and how to use it.\n\n### ⚙️ A completely new Settings screen\n\n**What it is.** Settings is now a screen of its own, laid out the way the system\napps on your phone lay theirs out: a list of **categories** you tap into, controls\n**grouped into cards**, and a choice presented as a full-width **bottom-sheet\npicker** with the current option ticked. Each category row shows its current value\non the right, so you can read your whole configuration without opening anything.\n\nThe categories are **Connection** (backend, exit country, protocol, scan mode, IP\nversion), **Transport & anti-DPI**, **DNS & routing rules**, **Upstream proxy**,\n**Apps & proxy**, **Security & stability**, **Share VPN**, **Langu"
+    },
+    {
+      "id": 1176461580,
+      "repo": "Schmi7zz/eazy-ssh",
+      "url": "https://github.com/Schmi7zz/eazy-ssh",
+      "description": "Connect to your Linux servers directly from Telegram Mini App.",
+      "language": "Python",
+      "topics": [],
+      "stars": 31,
+      "readme_snippet": "```\n  ███████╗ █████╗ ███████╗██╗   ██╗    ███████╗███████╗██╗  ██╗\n  ██╔════╝██╔══██╗╚══███╔╝╚██╗ ██╔╝    ██╔════╝██╔════╝██║  ██║\n  █████╗  ███████║  ███╔╝  ╚████╔╝     ███████╗███████╗███████║\n  ██╔══╝  ██╔══██║ ███╔╝    ╚██╔╝      ╚════██║╚════██║██╔══██║\n  ███████╗██║  ██║███████╗   ██║       ███████║███████║██║  ██║\n  ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝╚══════╝╚═╝  ╚═╝\n```\n\n### 🖥️ SSH Terminal inside Telegram\n\n**Connect to your Linux servers directly from Telegram Mini App.**\nNo app install needed. Works on iOS, Android & Desktop.\n\n&nbsp;\n\n[**Try it →**](https://t.me/EazySSH_bot/terminal) · [**Telegram Channel →**](https://t.me/SchmitzWS) · [**Report Bug →**](https://github.com/Schmi7zz/eazy-ssh/issues) · [**فارسی 🇮🇷**](README.fa.md)\n\n&nbsp;\n\n---\n\n&nbsp;\n\n![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)\n![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n![Telegram](https://img.shie"
     }
   ]
 }
