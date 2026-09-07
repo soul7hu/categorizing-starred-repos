@@ -77,6 +77,16 @@
       "topics": [],
       "stars": 31,
       "readme_snippet": "```\n  ███████╗ █████╗ ███████╗██╗   ██╗    ███████╗███████╗██╗  ██╗\n  ██╔════╝██╔══██╗╚══███╔╝╚██╗ ██╔╝    ██╔════╝██╔════╝██║  ██║\n  █████╗  ███████║  ███╔╝  ╚████╔╝     ███████╗███████╗███████║\n  ██╔══╝  ██╔══██║ ███╔╝    ╚██╔╝      ╚════██║╚════██║██╔══██║\n  ███████╗██║  ██║███████╗   ██║       ███████║███████║██║  ██║\n  ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝       ╚══════╝╚══════╝╚═╝  ╚═╝\n```\n\n### 🖥️ SSH Terminal inside Telegram\n\n**Connect to your Linux servers directly from Telegram Mini App.**\nNo app install needed. Works on iOS, Android & Desktop.\n\n&nbsp;\n\n[**Try it →**](https://t.me/EazySSH_bot/terminal) · [**Telegram Channel →**](https://t.me/SchmitzWS) · [**Report Bug →**](https://github.com/Schmi7zz/eazy-ssh/issues) · [**فارسی 🇮🇷**](README.fa.md)\n\n&nbsp;\n\n---\n\n&nbsp;\n\n![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)\n![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\n![Telegram](https://img.shie"
+    },
+    {
+      "id": 1301365301,
+      "repo": "Qorvhex/1101-Slayer",
+      "url": "https://github.com/Qorvhex/1101-Slayer",
+      "description": "ورود و مبهم سازی کد",
+      "language": "HTML",
+      "topics": [],
+      "stars": 22,
+      "readme_snippet": "<div dir=\"rtl\" align=\"right\">\n\n# Qorvhex 1101 Slayer\n\nاین ابزار یک سیستم مبهم‌ساز (Obfuscator) آفلاین و مبتنی بر کلاینت است که ساختار کدهای جاوااسکریپت (به‌ویژه کدهای کلادفلر ورکر - Cloudflare Workers) را به شکلی دگرگون می‌کند که ضمن حفظ کامل رفتار و خروجی اصلی کد، از شناسایی الگوهای ثابت توسط سیستم‌های تحلیل استاتیک کلادفلر جلوگیری کند.\n\n---\n\n## چرا کلادفلر ورکرها مسدود یا بن می‌شوند؟\n\nسیستم‌های امنیتی و ضداسپم کلادفلر (Cloudflare) با استفاده از موتورهای تحلیل خودکار، کدهایی را که روی ورکرها آپلود می‌شوند به دقت بررسی می‌کنند. اگر کد شما شامل الگوهای شناخته‌شده، هدرهای ثابت یا اثر انگشت‌های (Fingerprints) فاش‌شده از ابزارهای دور زدن و پروکسی باشد، کلادفلر ورکر یا حتی کل حساب کاربری شما را مسدود (Ban) خواهد کرد.\n\nاین ابزار با **شخصی‌سازی و بازسازی متامورفیک کدهای ورکر**، هر بار یک ساختار درختی انتزاعی (AST) کاملاً جدید و منحصربه‌فرد همراه با متغیرهای تصادفی، کدهای رمزنگاری‌شده و شرط‌های انحرافی ایجاد می‌کند تا سیستم‌های خودکار نتوانند هیچ الگوی ثابتی از کد شما پیدا کنند.\n\n---\n\n## قابلی"
     }
   ]
 }
