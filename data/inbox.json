@@ -87,6 +87,33 @@
       "topics": [],
       "stars": 22,
       "readme_snippet": "<div dir=\"rtl\" align=\"right\">\n\n# Qorvhex 1101 Slayer\n\nاین ابزار یک سیستم مبهم‌ساز (Obfuscator) آفلاین و مبتنی بر کلاینت است که ساختار کدهای جاوااسکریپت (به‌ویژه کدهای کلادفلر ورکر - Cloudflare Workers) را به شکلی دگرگون می‌کند که ضمن حفظ کامل رفتار و خروجی اصلی کد، از شناسایی الگوهای ثابت توسط سیستم‌های تحلیل استاتیک کلادفلر جلوگیری کند.\n\n---\n\n## چرا کلادفلر ورکرها مسدود یا بن می‌شوند؟\n\nسیستم‌های امنیتی و ضداسپم کلادفلر (Cloudflare) با استفاده از موتورهای تحلیل خودکار، کدهایی را که روی ورکرها آپلود می‌شوند به دقت بررسی می‌کنند. اگر کد شما شامل الگوهای شناخته‌شده، هدرهای ثابت یا اثر انگشت‌های (Fingerprints) فاش‌شده از ابزارهای دور زدن و پروکسی باشد، کلادفلر ورکر یا حتی کل حساب کاربری شما را مسدود (Ban) خواهد کرد.\n\nاین ابزار با **شخصی‌سازی و بازسازی متامورفیک کدهای ورکر**، هر بار یک ساختار درختی انتزاعی (AST) کاملاً جدید و منحصربه‌فرد همراه با متغیرهای تصادفی، کدهای رمزنگاری‌شده و شرط‌های انحرافی ایجاد می‌کند تا سیستم‌های خودکار نتوانند هیچ الگوی ثابتی از کد شما پیدا کنند.\n\n---\n\n## قابلی"
+    },
+    {
+      "id": 1232272213,
+      "repo": "BraveOPotato/FckSignups",
+      "url": "https://github.com/BraveOPotato/FckSignups",
+      "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4105,
+      "readme_snippet": "# NoSignups\n## (formerly FckSignups)\n\n[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hbDDqdmcm)\n[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/fucksignups/)\n\n> **Open Source Tools. Zero Bullsh*t.**\nA curated collection of open-source tools you can use instantly in your browser. no accounts, no emails, no tracking. Just tools that work.\n\n---\n\n## What is this?\n\nNoSignups is a React + TypeScript project. If you want to run it locally, simply clone the repo, install the depedencies, and run the server.\n\nHere's a command that would do all the previous steps in one go:\n```bash\ngit clone https://github.com/BraveOPotato/FckSignups.git && \\\ncd FckSignups && \\\nnpm install && \\\nnpm run dev\n```\n\n---\n\n## Philosophy\n\n| We believe | We reject |\n|------------|-----------|\n| Tools should work immediately | Forced registration walls |\n| Y"
+    },
+    {
+      "id": 784399892,
+      "repo": "ali77gh/PersianToolsWeb",
+      "url": "https://github.com/ali77gh/PersianToolsWeb",
+      "description": "web GUI for rust-persian-tools",
+      "language": "Rust",
+      "topics": [
+        "dioxus",
+        "farsi",
+        "iran",
+        "persian-tools",
+        "rust",
+        "wasm"
+      ],
+      "stars": 21,
+      "readme_snippet": "# Persian Tools Web\n\nWeb interface for [rust-persian-tools](https://github.com/persian-tools/rust-persian-tools) library.\n\n[<center>Open Web App</center>](https://ali77gh.github.io/PersianToolsWeb/)\n\nPowered by WASM and Dioxus and hosted on Github pages.\n\n## Screenshots\n\n<img src=\"./screenshot1.jpg\"></img>\n<img src=\"./screenshot2.jpg\"></img>\n<img src=\"./screenshot3.jpg\"></img>\n"
     }
   ]
 }
