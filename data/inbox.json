@@ -114,6 +114,16 @@
       ],
       "stars": 21,
       "readme_snippet": "# Persian Tools Web\n\nWeb interface for [rust-persian-tools](https://github.com/persian-tools/rust-persian-tools) library.\n\n[<center>Open Web App</center>](https://ali77gh.github.io/PersianToolsWeb/)\n\nPowered by WASM and Dioxus and hosted on Github pages.\n\n## Screenshots\n\n<img src=\"./screenshot1.jpg\"></img>\n<img src=\"./screenshot2.jpg\"></img>\n<img src=\"./screenshot3.jpg\"></img>\n"
+    },
+    {
+      "id": 754472143,
+      "repo": "bepass-org/oblivion",
+      "url": "https://github.com/bepass-org/oblivion",
+      "description": "Unofficial warp client for android",
+      "language": "Dart",
+      "topics": [],
+      "stars": 4784,
+      "readme_snippet": "# Oblivion - Unofficial Warp Client\n\n\"Internet, for all or none!\"\n\nOblivion provides secure, optimized internet access through a user-friendly app\nusing Cloudflare Warp technology.\n\nIt is built on [Aether](https://github.com/CluvexStudio/Aether), a user-space\nWarp core written in Rust that speaks MASQUE and WireGuard, and runs on Android,\nWindows and Linux from one codebase.\n\n![oblivion3.jpg](media/oblivion3.jpg)\n\n## Features\n\n- **Two transports**: MASQUE over QUIC/HTTP-3 or HTTP/2, and classic WireGuard.\n- **Zero Trust**: connect as a managed device on your organization's Cloudflare\n  account, signing in with an emailed code, a service token, or a token you hold.\n- **Traffic rules**: block a destination outright, or send it straight out and\n  bypass the tunnel, which is what banking apps and domestic sites need.\n- **Split tunnelling**: choose which Android apps stay off the tunnel.\n- **Obfuscation**: profiles that reshape the handshake for networks that\n  fingerprint it.\n- **User-Frie"
     }
   ]
 }
