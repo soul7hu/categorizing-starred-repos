@@ -124,6 +124,36 @@
       "topics": [],
       "stars": 4784,
       "readme_snippet": "# Oblivion - Unofficial Warp Client\n\n\"Internet, for all or none!\"\n\nOblivion provides secure, optimized internet access through a user-friendly app\nusing Cloudflare Warp technology.\n\nIt is built on [Aether](https://github.com/CluvexStudio/Aether), a user-space\nWarp core written in Rust that speaks MASQUE and WireGuard, and runs on Android,\nWindows and Linux from one codebase.\n\n![oblivion3.jpg](media/oblivion3.jpg)\n\n## Features\n\n- **Two transports**: MASQUE over QUIC/HTTP-3 or HTTP/2, and classic WireGuard.\n- **Zero Trust**: connect as a managed device on your organization's Cloudflare\n  account, signing in with an emailed code, a service token, or a token you hold.\n- **Traffic rules**: block a destination outright, or send it straight out and\n  bypass the tunnel, which is what banking apps and domestic sites need.\n- **Split tunnelling**: choose which Android apps stay off the tunnel.\n- **Obfuscation**: profiles that reshape the handshake for networks that\n  fingerprint it.\n- **User-Frie"
+    },
+    {
+      "id": 1257503890,
+      "repo": "MortezaBashsiz/nipovpn-android",
+      "url": "https://github.com/MortezaBashsiz/nipovpn-android",
+      "description": "",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 120,
+      "readme_snippet": "# NipoVPN Android\n\nNipoVPN Android is the Android client application for **NipoVPN**.\n\nThe main NipoVPN core is developed in the main repository:\n\nhttps://github.com/MortezaBashsiz/nipovpn\n\nNipoVPN is a proxy/VPN-style project designed to hide real HTTP/S traffic inside fake HTTP requests.\n\n## Features\n\n* Android client for NipoVPN\n* Built with Kotlin\n* Jetpack Compose UI\n* Uses the native NipoVPN core\n* Supports Android 7.0+ (`minSdk 24`)\n* Package name: `net.sudoer.nipo`\n\n## Project Structure\n\n```text\nnipovpn-android/\n├── README.md\n└── NipoVPN/\n    ├── app/\n    ├── gradle/\n    ├── build.gradle.kts\n    ├── settings.gradle.kts\n    ├── gradlew\n    └── gradlew.bat\n```\n\n## Requirements\n\n* Android Studio\n* JDK 11 or newer\n* Android SDK\n* Gradle wrapper included in the project\n\n## Build\n\nClone the repository:\n\n```bash\ngit clone https://github.com/MortezaBashsiz/nipovpn-android.git\ncd nipovpn-android/NipoVPN\n```\n\nBuild debug APK:\n\n```bash\n./gradlew assembleDebug\n```\n\nBuild release APK:\n\n```b"
+    },
+    {
+      "id": 609562037,
+      "repo": "MortezaBashsiz/nipovpn",
+      "url": "https://github.com/MortezaBashsiz/nipovpn",
+      "description": "Powerfull proxy",
+      "language": "C++",
+      "topics": [],
+      "stars": 732,
+      "readme_snippet": "# NipoVPN\n\n## Overview\n\nNipoVPN is a powerful proxy tool designed to conceal your HTTP requests within fake HTTP requests. This program, written in C++, leverages the Boost library to handle networking functionalities efficiently.\n\n\n## Features\n\n  - HTTP Request Obfuscation: Hide your legitimate HTTP requests inside decoy requests to avoid detection.\n  - Boost Library Integration: Utilizes Boost for robust and reliable networking operations.\n  - High Performance: Optimized for speed and efficiency, ensuring minimal impact on request latency.\n  - Support HTTP and SOCKS5 on agent side\n  - Ability to use multiple Agents for one Server\n\n\n## Usecases\n\n### Bypass filtering\n\nThis could help you to bypass the filtering in your country.\n\n![Filtering](https://github.com/MortezaBashsiz/nipovpn/blob/main/files/pic/archFilternet.png)\n\n### Hide your requests in the Internet\n\nIf you want to hide your HTTP requests in the Internet, this proxy could help you.\n\n![Internet](https://github.com/MortezaBash"
+    },
+    {
+      "id": 1147114646,
+      "repo": "mirarr-app/network-checker",
+      "url": "https://github.com/mirarr-app/network-checker",
+      "description": "Sets of tools to help bypass DPI",
+      "language": "Dart",
+      "topics": [],
+      "stars": 829,
+      "readme_snippet": "# Network Checker\n\n<p align=\"center\">\n  <strong>Set of network tools curated for Iran's Internet situation.</strong><br>\n  مجموعه ابزارهای شبکه برای وضعیت اینترنت ایران\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-blue?style=flat-square\" alt=\"Platform\">\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img src=\"https://img.shields.io/github/v/release/mirarr-app/network-checker?style=flat-square&color=green\" alt=\"Latest Release\">\n  </a>\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img alt=\"GitHub Downloads (all assets, all releases)\" src=\"https://img.shields.io/github/downloads/mirarr-app/network-checker/total\">\n  </a>\n</p>\n\n---\n\n## 📥 Download / دانلود\n\nAvailable for Android, Windows, and Linux.  \nبرای اندروید، ویندوز و لینوکس در دسترس است.\n\n<p align=\"left\">\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img src=\"https://raw.githubusercontent.c"
     }
   ]
 }
