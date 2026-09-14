@@ -154,6 +154,16 @@
       "topics": [],
       "stars": 829,
       "readme_snippet": "# Network Checker\n\n<p align=\"center\">\n  <strong>Set of network tools curated for Iran's Internet situation.</strong><br>\n  مجموعه ابزارهای شبکه برای وضعیت اینترنت ایران\n</p>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/Platform-Android%20%7C%20Windows%20%7C%20Linux-blue?style=flat-square\" alt=\"Platform\">\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img src=\"https://img.shields.io/github/v/release/mirarr-app/network-checker?style=flat-square&color=green\" alt=\"Latest Release\">\n  </a>\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img alt=\"GitHub Downloads (all assets, all releases)\" src=\"https://img.shields.io/github/downloads/mirarr-app/network-checker/total\">\n  </a>\n</p>\n\n---\n\n## 📥 Download / دانلود\n\nAvailable for Android, Windows, and Linux.  \nبرای اندروید، ویندوز و لینوکس در دسترس است.\n\n<p align=\"left\">\n  <a href=\"https://github.com/mirarr-app/network-checker/releases\">\n    <img src=\"https://raw.githubusercontent.c"
+    },
+    {
+      "id": 1340938177,
+      "repo": "nexouya/nexouya-file",
+      "url": "https://github.com/nexouya/nexouya-file",
+      "description": "⚡ NEXOUYA FILE — Telegram File Uploader Bot powered by Cloudflare Workers & D1",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 18,
+      "readme_snippet": "<div align=\"center\">\n\n# ⚡ NEXOUYA\n\n**بات تلگرامی آپلود و اشتراک‌گذاری فایل مبتنی بر Cloudflare Workers + Cloudflare D1**\n\n![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)\n![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)\n![Database](https://img.shields.io/badge/Cloudflare-D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)\n![License](https://img.shields.io/badge/License-MIT-green.svg)\n\n</div>\n\n---\n\n## 📌 درباره پروژه\n\n**NEXOUYA** یک بات تلگرامی برای آپلود فایل و ساخت لینک دریافت امن است.  \nاین بات فایل‌ها را در یک **کانال خصوصی تلگرام** ذخیره می‌کند و برای هر فایل یک **لینک اختصاصی با توکن تصادفی** می‌سازد.\n\nهسته پروژه به‌صورت یک فایل واحد `worker.js` روی **Cloudflare Workers** اجرا می‌شود و برای ذخیره‌سازی اطلاعات از **Cloudflare D1** استفاده می‌کند.\n\n---\n\n## ✨ امکانات\n\n- 📤 آپلود انواع فایل: سند، ویدیو، صوت، ویس، انیمیشن و عکس\n-"
     }
   ]
 }
