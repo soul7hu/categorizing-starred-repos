@@ -164,6 +164,28 @@
       "topics": [],
       "stars": 18,
       "readme_snippet": "<div align=\"center\">\n\n# ⚡ NEXOUYA\n\n**بات تلگرامی آپلود و اشتراک‌گذاری فایل مبتنی بر Cloudflare Workers + Cloudflare D1**\n\n![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)\n![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)\n![Database](https://img.shields.io/badge/Cloudflare-D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)\n![License](https://img.shields.io/badge/License-MIT-green.svg)\n\n</div>\n\n---\n\n## 📌 درباره پروژه\n\n**NEXOUYA** یک بات تلگرامی برای آپلود فایل و ساخت لینک دریافت امن است.  \nاین بات فایل‌ها را در یک **کانال خصوصی تلگرام** ذخیره می‌کند و برای هر فایل یک **لینک اختصاصی با توکن تصادفی** می‌سازد.\n\nهسته پروژه به‌صورت یک فایل واحد `worker.js` روی **Cloudflare Workers** اجرا می‌شود و برای ذخیره‌سازی اطلاعات از **Cloudflare D1** استفاده می‌کند.\n\n---\n\n## ✨ امکانات\n\n- 📤 آپلود انواع فایل: سند، ویدیو، صوت، ویس، انیمیشن و عکس\n-"
+    },
+    {
+      "id": 1371710354,
+      "repo": "TheGreatAzizi/Persian-Typo-Fixer",
+      "url": "https://github.com/TheGreatAzizi/Persian-Typo-Fixer",
+      "description": "Chrome extension that auto-fixes Persian typos as you type",
+      "language": "JavaScript",
+      "topics": [
+        "browser-extension",
+        "chrome",
+        "chrome-extension",
+        "chrome-extensions",
+        "farsi",
+        "farsi-language",
+        "persian",
+        "persian-language",
+        "spell-checker",
+        "spell-checker-plugin",
+        "writing"
+      ],
+      "stars": 19,
+      "readme_snippet": "# Persian Typo Fixer\n\n<p align=\"center\">\n  <img src=\"icon128.png\" width=\"96\" height=\"96\" alt=\"Persian Typo Fixer\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/blob/main/manifest.json\"><img src=\"https://img.shields.io/badge/manifest-v3-blue?style=flat-square\" alt=\"Manifest V3\"></a>\n  <a href=\"https://developer.chrome.com/docs/extensions/\"><img src=\"https://img.shields.io/badge/Chrome-88+-4285F4?style=flat-square&logo=googlechrome&logoColor=white\" alt=\"Chrome 88+\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-green?style=flat-square\" alt=\"MIT License\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer\"><img src=\"https://img.shields.io/github/stars/TheGreatAzizi/Persian-Typo-Fixer?style=flat-square\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/commits/main\"><img src=\"https://img.shields.io/github/last-co"
     }
   ]
 }
