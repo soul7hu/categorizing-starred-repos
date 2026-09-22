@@ -186,6 +186,32 @@
       ],
       "stars": 19,
       "readme_snippet": "# Persian Typo Fixer\n\n<p align=\"center\">\n  <img src=\"icon128.png\" width=\"96\" height=\"96\" alt=\"Persian Typo Fixer\">\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/blob/main/manifest.json\"><img src=\"https://img.shields.io/badge/manifest-v3-blue?style=flat-square\" alt=\"Manifest V3\"></a>\n  <a href=\"https://developer.chrome.com/docs/extensions/\"><img src=\"https://img.shields.io/badge/Chrome-88+-4285F4?style=flat-square&logo=googlechrome&logoColor=white\" alt=\"Chrome 88+\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/blob/main/LICENSE\"><img src=\"https://img.shields.io/badge/license-MIT-green?style=flat-square\" alt=\"MIT License\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer\"><img src=\"https://img.shields.io/github/stars/TheGreatAzizi/Persian-Typo-Fixer?style=flat-square\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/TheGreatAzizi/Persian-Typo-Fixer/commits/main\"><img src=\"https://img.shields.io/github/last-co"
+    },
+    {
+      "id": 736322676,
+      "repo": "cmliu/edgetunnel",
+      "url": "https://github.com/cmliu/edgetunnel",
+      "description": "edgetunnel2 VLESS/Trojan/SS 多功能面板",
+      "language": "JavaScript",
+      "topics": [
+        "shadowsocks",
+        "shadowsocks-ws-tls",
+        "trojan",
+        "vless",
+        "vless-ws-tls"
+      ],
+      "stars": 45964,
+      "readme_snippet": "# 🚀 edgetunnel 2.1\n![后台页面](./img.png)\n\n[![Stars](https://img.shields.io/github/stars/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/stargazers)\n[![Forks](https://img.shields.io/github/forks/cmliu/edgetunnel?style=flat-square&logo=github)](https://github.com/cmliu/edgetunnel/network/members)\n[![License](https://img.shields.io/github/license/cmliu/edgetunnel?style=flat-square)](https://github.com/cmliu/edgetunnel/blob/main/LICENSE)\n[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat-square&logo=telegram)](https://t.me/CMLiussss)\n[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=LeT4jQUh8ok)\n[![zread](https://img.shields.io/badge/Ask_Zread-_.svg?style=flat-square&color=00b0aa&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3Zn"
+    },
+    {
+      "id": 1051763468,
+      "repo": "byJoey/cfnew",
+      "url": "https://github.com/byJoey/cfnew",
+      "description": "",
+      "language": "Not specified",
+      "topics": [],
+      "stars": 15484,
+      "readme_snippet": "# CFnew - 终端 v3.0\n\n> **⚠️ 重要：部署后请将兼容日期设置为 `2026-01-20`**\n>\n> **Pages 部署：**\n> 1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)\n> 2. 进入 **Workers 和 Pages** → 选择你的 Pages 项目\n> 3. 点击 **设置** → **运行时**\n> 4. 找到 **兼容性日期**，选择 `2026-01-20`，点击 **保存**\n> 5. 返回 **部署** → **创建部署** → 上传文件\n>\n> **Worker 部署：**\n> 1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)\n> 2. 进入 **Workers 和 Pages** → 选择你的 Worker\n> 3. 点击 **设置** → **运行时**\n> 4. 找到 **兼容性日期**，选择 `2026-01-20`，点击 **保存**\n\n**语言:** [中文](README.md) | [فارسی](فارسی.md)\n\n[Telegram 交流群](https://t.me/+ft-zI76oovgwNmRh)\n\n## 主要功能\n\n- 多协议支持：VLESS、Trojan、xhttp，可以同时启用多个\n- 自定义路径：不用UUID当路径了，可以自己设置，支持多级路径\n- 延迟测试：内置测试工具，测IP延迟，自动获取机场码\n- 订阅转换：可以自定义转换服务地址\n- 图形化管理：用KV存配置，改完立即生效，不用重新部署\n- API管理：支持通过API动态添加/删除优选IP\n- 多客户端：支持 CLASH、SURGE、SING-BOX、LOON、QUANTUMULT X、V2RAY、Shadowrocket、STASH、NEKORAY、V2RAYNG\n- 应用唤醒：点按钮自动打开对应客户端\n- 自动识别：根据User-Agent自动返回对应格式\n- 多语言：支持中文和波斯语，根据浏览器语言自动切换\n\n## v3.0 更新\n\n- 「指定地区 (wk)」的第一项从「自动检测」改成「官方直连」\n  - 留空时直接用内置的官方地址，不再探测 Worker 所在地区去匹配第三方 ProxyIP 域名\n "
     }
   ]
 }
