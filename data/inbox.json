@@ -212,6 +212,34 @@
       "topics": [],
       "stars": 15484,
       "readme_snippet": "# CFnew - 终端 v3.0\n\n> **⚠️ 重要：部署后请将兼容日期设置为 `2026-01-20`**\n>\n> **Pages 部署：**\n> 1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)\n> 2. 进入 **Workers 和 Pages** → 选择你的 Pages 项目\n> 3. 点击 **设置** → **运行时**\n> 4. 找到 **兼容性日期**，选择 `2026-01-20`，点击 **保存**\n> 5. 返回 **部署** → **创建部署** → 上传文件\n>\n> **Worker 部署：**\n> 1. 登录 [Cloudflare 控制台](https://dash.cloudflare.com/)\n> 2. 进入 **Workers 和 Pages** → 选择你的 Worker\n> 3. 点击 **设置** → **运行时**\n> 4. 找到 **兼容性日期**，选择 `2026-01-20`，点击 **保存**\n\n**语言:** [中文](README.md) | [فارسی](فارسی.md)\n\n[Telegram 交流群](https://t.me/+ft-zI76oovgwNmRh)\n\n## 主要功能\n\n- 多协议支持：VLESS、Trojan、xhttp，可以同时启用多个\n- 自定义路径：不用UUID当路径了，可以自己设置，支持多级路径\n- 延迟测试：内置测试工具，测IP延迟，自动获取机场码\n- 订阅转换：可以自定义转换服务地址\n- 图形化管理：用KV存配置，改完立即生效，不用重新部署\n- API管理：支持通过API动态添加/删除优选IP\n- 多客户端：支持 CLASH、SURGE、SING-BOX、LOON、QUANTUMULT X、V2RAY、Shadowrocket、STASH、NEKORAY、V2RAYNG\n- 应用唤醒：点按钮自动打开对应客户端\n- 自动识别：根据User-Agent自动返回对应格式\n- 多语言：支持中文和波斯语，根据浏览器语言自动切换\n\n## v3.0 更新\n\n- 「指定地区 (wk)」的第一项从「自动检测」改成「官方直连」\n  - 留空时直接用内置的官方地址，不再探测 Worker 所在地区去匹配第三方 ProxyIP 域名\n "
+    },
+    {
+      "id": 1140832724,
+      "repo": "caamer20/Telegram-Drive",
+      "url": "https://github.com/caamer20/Telegram-Drive",
+      "description": "Turn your Telegram account into an unlimited, secure cloud storage drive. an Open-source desktop app built with Tauri, Rust, and React.",
+      "language": "TypeScript",
+      "topics": [
+        "open-source",
+        "react",
+        "rust",
+        "tauri",
+        "telegram",
+        "telegramapi",
+        "typescript"
+      ],
+      "stars": 5155,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"Docs/assets/logo.svg\" alt=\"Telegram Drive logo\" width=\"92\">\n\n# Telegram Drive\n\n### A local-first file workspace powered by your own Telegram account\n\nOrganize, transfer, preview, stream, sync, and share the files you keep in Saved Messages and Telegram channels—on Windows, macOS, Linux, Android, and Google TV.\n\n[![Latest release](https://img.shields.io/github/v/release/caamer20/Telegram-Drive?display_name=tag&sort=semver)](https://github.com/caamer20/Telegram-Drive/releases/latest)\n[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux%20%7C%20Android-blue)](https://github.com/caamer20/Telegram-Drive/releases)\n[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/caamer20/Telegram-Drive/total?style=flat)](https://github.com/caamer20/Telegram-Drive/releases)\n[![Release](https://github.com/caamer20/Telegram-Drive/actions/workflows/release.yml/badge.svg)](https://github.com/caamer20/Telegram-"
+    },
+    {
+      "id": 1377681028,
+      "repo": "yastorovsky/MehrON",
+      "url": "https://github.com/yastorovsky/MehrON",
+      "description": "MehrON is a Windows Desktop Proxy / Tun Client Based on PattN/V2rayN",
+      "language": "C#",
+      "topics": [],
+      "stars": 56,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"v2rayN/v2rayN.Desktop/Assets/MehrON-logo.png\" width=\"160\" height=\"160\" alt=\"MehrON Logo\" />\n</p>\n\n<h1 align=\"center\">MehrON</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/yastorovsky/MehrON/releases/tag/v7.25.47\"><img src=\"https://img.shields.io/badge/download-v7.25.47-green\" alt=\"Download\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/releases\"><img src=\"https://img.shields.io/github/downloads/yastorovsky/MehrON/total?label=downloads\" alt=\"Downloads\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/actions/workflows/build.yml\"><img src=\"https://github.com/yastorovsky/MehrON/actions/workflows/build.yml/badge.svg\" alt=\"Build\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/actions/workflows/test.yml\"><img src=\"https://github.com/yastorovsky/MehrON/actions/workflows/test.yml/badge.svg\" alt=\"Tests\" /></a>\n  <img src=\"https://img.shields.io/badge/platform-Windows%20x64-blue\" alt=\"Platform\" />\n  <img src=\"https://img.shields.io"
     }
   ]
 }
