@@ -240,6 +240,45 @@
       "topics": [],
       "stars": 56,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"v2rayN/v2rayN.Desktop/Assets/MehrON-logo.png\" width=\"160\" height=\"160\" alt=\"MehrON Logo\" />\n</p>\n\n<h1 align=\"center\">MehrON</h1>\n\n<p align=\"center\">\n  <a href=\"https://github.com/yastorovsky/MehrON/releases/tag/v7.25.47\"><img src=\"https://img.shields.io/badge/download-v7.25.47-green\" alt=\"Download\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/releases\"><img src=\"https://img.shields.io/github/downloads/yastorovsky/MehrON/total?label=downloads\" alt=\"Downloads\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/actions/workflows/build.yml\"><img src=\"https://github.com/yastorovsky/MehrON/actions/workflows/build.yml/badge.svg\" alt=\"Build\" /></a>\n  <a href=\"https://github.com/yastorovsky/MehrON/actions/workflows/test.yml\"><img src=\"https://github.com/yastorovsky/MehrON/actions/workflows/test.yml/badge.svg\" alt=\"Tests\" /></a>\n  <img src=\"https://img.shields.io/badge/platform-Windows%20x64-blue\" alt=\"Platform\" />\n  <img src=\"https://img.shields.io"
+    },
+    {
+      "id": 1330442132,
+      "repo": "msmahdinejad/avorythm",
+      "url": "https://github.com/msmahdinejad/avorythm",
+      "description": "Avorythm — open-source live AI translation, dubbing, captions, and synchronized media for desktop and Chrome.",
+      "language": "JavaScript",
+      "topics": [
+        "accessibility",
+        "browser-extension",
+        "chrome-extension",
+        "dubbing",
+        "gemini",
+        "live-translation",
+        "python",
+        "speech-to-speech"
+      ],
+      "stars": 32,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/branding/avorythm-logo.png\" width=\"148\" alt=\"Avorythm logo\">\n</p>\n\n<h1 align=\"center\">Avorythm</h1>\n\n<p align=\"center\"><strong>Hear every voice—or just read it—in your language.</strong></p>\n\n<p align=\"center\">\n  Live translation and dubbing for desktop and browser audio, plus synchronized processing\n  for uploaded audio and video.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/msmahdinejad/avorythm/actions/workflows/ci.yml\"><img alt=\"CI\" src=\"https://img.shields.io/github/actions/workflow/status/msmahdinejad/avorythm/ci.yml?branch=main&label=CI\"></a>\n  <a href=\"https://github.com/msmahdinejad/avorythm/releases\"><img alt=\"Release\" src=\"https://img.shields.io/github/v/release/msmahdinejad/avorythm?label=Release\"></a>\n  <img alt=\"Python 3.12\" src=\"https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white\">\n  <img alt=\"Node 20+\" src=\"https://img.shields.io/badge/Node-20%2B-339933?logo=nodedotjs&logoColor=white\">\n  <a href=\"LI"
+    },
+    {
+      "id": 1330252700,
+      "repo": "navidseyedain/ALAD-Mobile",
+      "url": "https://github.com/navidseyedain/ALAD-Mobile",
+      "description": "Real-time AI voice dubbing for any Android app, powered by Google's Gemini 3.5 Live Translate.",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 36,
+      "readme_snippet": "<div align=\"center\">\n  🌐 <strong>Read in English</strong> | <a href=\"README-fa.md\">خواندن به زبان فارسی</a>\n</div>\n\n<div align=\"center\">\n  <img src=\"app/src/main/res/mipmap-xxxhdpi/ic_launcher.png\" alt=\"ALAD Logo\" width=\"120\" />\n\n<h1>🎙️ ALAD — AI Live Audio Dubbing (Mobile)</h1>\n\n<p><strong>Real-time AI voice dubbing for any Android app, powered by Google's Gemini 3.5 Live Translate.</strong></p>\n\n<p>\n  <a href=\"https://github.com/navidseyedain/ALAD-Mobile/stargazers\"><img src=\"https://img.shields.io/github/stars/navidseyedain/ALAD-Mobile?style=for-the-badge&color=FFD700\" alt=\"Stars\"></a>\n  <a href=\"https://github.com/navidseyedain/ALAD-Mobile/releases/latest\"><img src=\"https://img.shields.io/github/v/release/navidseyedain/ALAD-Mobile?style=for-the-badge&color=blue\" alt=\"Latest Release\"></a>\n  <a href=\"https://developer.android.com/\"><img src=\"https://img.shields.io/badge/Android-10%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white\" alt=\"Android\"></a>\n  <a href=\"https://kotlin"
+    },
+    {
+      "id": 1008647820,
+      "repo": "ItsReZNuM/TelApiIDHash",
+      "url": "https://github.com/ItsReZNuM/TelApiIDHash",
+      "description": "A tool for getting Telegram API ID & Hash without getting error",
+      "language": "Python",
+      "topics": [],
+      "stars": 25,
+      "readme_snippet": "# 📱 Telegram API Hash & ID Tool 🚀\n\nWelcome to **ReZNuM's Telegram API Tool**! This Python script helps you retrieve your **Telegram API Hash** and **API ID** with ease. Perfect for developers building Telegram bots or apps! 🤖\n\n---\n\n## ✨ Features\n\n- 🛡️ Securely fetches your Telegram API Hash and ID using the official Telegram website.\n- 🎨 Beautiful terminal interface with colorful ASCII art and an unscramble effect for contact info.\n- 🔒 Handles authentication with phone number and verification code.\n- 📋 Displays additional details like Public Key and Production Configuration.\n- 🚫 Gracefully handles errors like rate limits or invalid inputs.\n\n---\n\n## 🛠️ Requirements\n\nTo run this tool, you'll need the following Python libraries:\n\n- `requests` 📡\n- `beautifulsoup4` 🕸️\n- `colorama` 🌈\n- `time` ⏳\n- `random` 🎲\n- `sys` ⚙️\n\nInstall them using pip:\n\n```bash\npip install requests beautifulsoup4 colorama\n```\n\n---\n\n## 🚀 How to Use\n\n1. **Clone the repository** 📥:\n\n   ```bash\n   git clone https://github"
     }
   ]
 }
