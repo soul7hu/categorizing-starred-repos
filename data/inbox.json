@@ -279,6 +279,22 @@
       "topics": [],
       "stars": 25,
       "readme_snippet": "# 📱 Telegram API Hash & ID Tool 🚀\n\nWelcome to **ReZNuM's Telegram API Tool**! This Python script helps you retrieve your **Telegram API Hash** and **API ID** with ease. Perfect for developers building Telegram bots or apps! 🤖\n\n---\n\n## ✨ Features\n\n- 🛡️ Securely fetches your Telegram API Hash and ID using the official Telegram website.\n- 🎨 Beautiful terminal interface with colorful ASCII art and an unscramble effect for contact info.\n- 🔒 Handles authentication with phone number and verification code.\n- 📋 Displays additional details like Public Key and Production Configuration.\n- 🚫 Gracefully handles errors like rate limits or invalid inputs.\n\n---\n\n## 🛠️ Requirements\n\nTo run this tool, you'll need the following Python libraries:\n\n- `requests` 📡\n- `beautifulsoup4` 🕸️\n- `colorama` 🌈\n- `time` ⏳\n- `random` 🎲\n- `sys` ⚙️\n\nInstall them using pip:\n\n```bash\npip install requests beautifulsoup4 colorama\n```\n\n---\n\n## 🚀 How to Use\n\n1. **Clone the repository** 📥:\n\n   ```bash\n   git clone https://github"
+    },
+    {
+      "id": 507288931,
+      "repo": "j-hc/revanced-magisk-module",
+      "url": "https://github.com/j-hc/revanced-magisk-module",
+      "description": "Extensive ReVanced builder. Builds both modules and APKs. Updated daily.",
+      "language": "Shell",
+      "topics": [
+        "magisk",
+        "module",
+        "morphe",
+        "revanced",
+        "rvmm"
+      ],
+      "stars": 7633,
+      "readme_snippet": "# ReVanced Magisk Module\n[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)\n[![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)\n\nExtensive ReVanced builder  \n\nGet the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).\n\nUse [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. \n\n<details><summary><big>Features</big></summary>\n<ul>\n <li> Supports all present and future ReVanced apps (including projects implementing the same interface like Morphe)</li>\n <li> Receives in-app updates</li>\n <li> Can build modules and non-root APKs</li>\n <li> Updated daily with the latest versions of apps and patches</li>\n <li> Optimizes APKs and modules for size</li>\n <li> Modules</li>\n    <"
     }
   ]
 }
