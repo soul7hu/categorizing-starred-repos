@@ -323,6 +323,48 @@
       ],
       "stars": 2225,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/antra-header.svg\" width=\"100%\" alt=\"Antra\"/>\n</p>\n\n<p align=\"center\">\n  <sub>🌐 Running live at <a href=\"https://antra.hoshi.cfd/\">antra.hoshi.cfd</a></sub>\n</p>\n\n<p align=\"center\">\n  <strong>A desktop music library builder that turns Spotify, YouTube Music, Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into a fully tagged local library in FLAC, ALAC, AAC, or MP3.</strong>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/anandprtp/Antra/releases\"><img src=\"https://img.shields.io/github/v/release/anandprtp/Antra?color=0ea5e9&label=latest&style=flat-square&labelColor=0d1117\"/></a>\n  <img src=\"https://img.shields.io/badge/Windows%20·%20macOS%20·%20Linux-supported-0ea5e9?style=flat-square&labelColor=0d1117\"/>\n  <a href=\"https://t.me/antraaverse\"><img src=\"https://img.shields.io/badge/Community-Telegram-26A5E4?style=flat-square&labelColor=0d1117&logo=telegram&logoColor=white\"/></a>\n  <a href=\"https://discord.com/invite/gAJ3QymUta\"><img "
+    },
+    {
+      "id": 793569077,
+      "repo": "NiREvil/Harmony",
+      "url": "https://github.com/NiREvil/Harmony",
+      "description": "vless to sub - Built a subscription link with the ability to automatically add CF clean IPs to VLESS configurations",
+      "language": "JavaScript",
+      "topics": [
+        "cloudflare-worker",
+        "cloudflare-workers",
+        "subscription-links",
+        "subworkers",
+        "vless",
+        "vless-ws-tls",
+        "websocket"
+      ],
+      "stars": 53,
+      "readme_snippet": "# Harmony\n\n**ساخت لینک ساب با قابلیت افزودن خودکار آی‌پی تمیز کلادفلر و پارامترهای ثابت و متغیر برای کانفیگ‌های VLESS در جهت بهبود وضعیت دسترسی به اینترنت آزاد**\n\n> [!WARNING]\n>\n> **متن ارائه شده به عنوان دستورالعمل پیکربندی `CloudFlare Workers—Pages` ارائه می‌شود.  \n> فرض بر این است که مخاطب از دانش فنی لازم برخوردار است.**\n> \n> <br/>\t\n\n<br/>\n\n# دستورالعمل پیکربندی\n\nاز هر کد وورکر که تمایل دارید برای ساخت یک کانفیگ `Vless` استفاده کنید. برای ما دو عنصر کلیدی در این پروسه فقط `UUID` و `hostname` کانفیگ هستند. <br/>\n\n> اگر کانفیگ ندارید و تاکنون وورکر نساخته‌اید، توضیحات پیرامون ساخت کانفیگ را بخوانید. در غیر این صورت، این قسمت را نادیده گرفته و آموزش را ادامه دهید.\n\n<br/>\n\n<div dir=\"rtl\">\n\n<details>\n‏<summary><strong> توضیحات پیرامون ساخت کانفیگ </strong></summary>\n\n  <br/>\n\n## 1. ایجاد کانفیگ Vless\n\n### [ZiZifn (Rust-wsam)][ZiF]\n\nمن برای مثال از کد وورکر zizifn نسخه بازنویسی‌شده با rust برای ساخت کانفیگ VLESS استفاده کردم، اطلاعات مورد نیاز برای نحوه کلون‌کرده و دپلوی پروژه در همان مخ"
+    },
+    {
+      "id": 656344461,
+      "repo": "NiREvil/vless",
+      "url": "https://github.com/NiREvil/vless",
+      "description": "v2ray subscription links",
+      "language": "Rust",
+      "topics": [
+        "amnezia",
+        "clash-meta",
+        "cloudflare-workers",
+        "fragments",
+        "free-configuration",
+        "free-dns",
+        "mahsang",
+        "serverless",
+        "shadowsocks",
+        "trojan",
+        "v2ray",
+        "vless-ws-tls",
+        "warp"
+      ],
+      "stars": 1341,
+      "readme_snippet": "<p align=\"center\">\n<img src=\"https://latex.codecogs.com/svg.image?\\huge&space;\\mathrm{NiR{\\!\\mathrm{{\\color{Red}\\sum}}\\!\\!\\!\\mathbf{v}il}}\" title=\"\\mathrm{NiR{\\!\\mathrm{{\\color{Red}\\sum}}\\!\\!\\!\\mathbf{v}il}}\" width=\"220x\" </p>\n\n<br><br/>\n\n> [!CAUTION]\n>\n> <br/>\n>\n> **فعال شدن دو رنج از آی‌پی‌/اندپوینت‌های وارپ**\n>\n> از دیروز برای من دوتا رنج‌ از اندپوینت‌های وارپ فعال شدن. اینجا نوشتم دربارش:\n>\n> [NiREvil/vless/wiki][WIKI]\n>\n> <br/>\n\n<br><br/>\n\n> [!CAUTION]\n>\n> ‏[![MahsaAmini](https://img.shields.io/badge/پیشنهادی-darkred)](https://t.me/NiREvil_GP)\n>\n> <br/>\n>\n> <details>\n> <summary>❗ توضیحات Katabump Free Hy2 </summary><br/>\n>\n> دریافت سرور مجازی رایگان و ساخت کانفیگ Hysteria, Vless, Xhttp and etc به راحتی هر چه تمام‌تر\n>\n> [مهدی عزیز آموزش قدم به قدم رو در سایتش قرار داده][kata]\n>\n> و همچنین از وبلاگ مهدی بخونید درباره [ساخت پروکسی MTProto روی سرویس Katabump][katap]\n>\n> <br/>\n>\n> **⚠️ نکته:**\n>\n> تنها نقطه ضعف پروژه اینه که هر چهار روز یک‌بار باید از داشبورد سایت وارد سرور شده و کلیک"
     }
   ]
 }
