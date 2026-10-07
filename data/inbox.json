@@ -365,6 +365,16 @@
       ],
       "stars": 1341,
       "readme_snippet": "<p align=\"center\">\n<img src=\"https://latex.codecogs.com/svg.image?\\huge&space;\\mathrm{NiR{\\!\\mathrm{{\\color{Red}\\sum}}\\!\\!\\!\\mathbf{v}il}}\" title=\"\\mathrm{NiR{\\!\\mathrm{{\\color{Red}\\sum}}\\!\\!\\!\\mathbf{v}il}}\" width=\"220x\" </p>\n\n<br><br/>\n\n> [!CAUTION]\n>\n> <br/>\n>\n> **فعال شدن دو رنج از آی‌پی‌/اندپوینت‌های وارپ**\n>\n> از دیروز برای من دوتا رنج‌ از اندپوینت‌های وارپ فعال شدن. اینجا نوشتم دربارش:\n>\n> [NiREvil/vless/wiki][WIKI]\n>\n> <br/>\n\n<br><br/>\n\n> [!CAUTION]\n>\n> ‏[![MahsaAmini](https://img.shields.io/badge/پیشنهادی-darkred)](https://t.me/NiREvil_GP)\n>\n> <br/>\n>\n> <details>\n> <summary>❗ توضیحات Katabump Free Hy2 </summary><br/>\n>\n> دریافت سرور مجازی رایگان و ساخت کانفیگ Hysteria, Vless, Xhttp and etc به راحتی هر چه تمام‌تر\n>\n> [مهدی عزیز آموزش قدم به قدم رو در سایتش قرار داده][kata]\n>\n> و همچنین از وبلاگ مهدی بخونید درباره [ساخت پروکسی MTProto روی سرویس Katabump][katap]\n>\n> <br/>\n>\n> **⚠️ نکته:**\n>\n> تنها نقطه ضعف پروژه اینه که هر چهار روز یک‌بار باید از داشبورد سایت وارد سرور شده و کلیک"
+    },
+    {
+      "id": 1406929614,
+      "repo": "itsyebekhe/nabz",
+      "url": "https://github.com/itsyebekhe/nabz",
+      "description": "",
+      "language": "HTML",
+      "topics": [],
+      "stars": 42,
+      "readme_snippet": "<div dir=\"rtl\" align=\"center\">\n\n# 📊 نبض بازار | قیمت لحظه‌ای و تاریخچه ارز، طلا و سکه\n\n[![Auto Update](https://img.shields.io/badge/Auto--Update-Every_30_Minutes-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](#)\n[![API Status](https://img.shields.io/badge/API-Live_&_Free-3b82f6?style=for-the-badge&logo=json&logoColor=white)](#-وب‌سرویس-و-دسترسی-api)\n[![Timezone](https://img.shields.io/badge/Timezone-Tehran_(UTC%2B3:30)-f59e0b?style=for-the-badge)](#)\n[![Telegram](https://img.shields.io/badge/Telegram-@yebekhe-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yebekhe)\n\n<br/>\n\n> [!NOTE]\n> 📅 **تاریخ:** ۱۵ مهر ۱۴۰۵ (2026-10-07) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۴:۳۰** (به وقت تهران)\n\n<br/>\n\n</div>\n\n<div dir=\"rtl\">\n\n### 📋 جدول زنده نرخ‌ها\n\n<table width=\"100%\">\n<thead>\n<tr>\n<th width=\"8%\" align=\"center\">نماد</th>\n<th width=\"52%\" align=\"right\">عنوان شاخص بازار</th>\n<th width=\"40%\" align=\"left\">قیمت زنده (بازار آزاد)</th>\n</tr>\n</thead>\n<tbody>"
     }
   ]
 }
