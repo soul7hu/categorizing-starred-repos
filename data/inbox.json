@@ -375,6 +375,29 @@
       "topics": [],
       "stars": 42,
       "readme_snippet": "<div dir=\"rtl\" align=\"center\">\n\n# 📊 نبض بازار | قیمت لحظه‌ای و تاریخچه ارز، طلا و سکه\n\n[![Auto Update](https://img.shields.io/badge/Auto--Update-Every_30_Minutes-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](#)\n[![API Status](https://img.shields.io/badge/API-Live_&_Free-3b82f6?style=for-the-badge&logo=json&logoColor=white)](#-وب‌سرویس-و-دسترسی-api)\n[![Timezone](https://img.shields.io/badge/Timezone-Tehran_(UTC%2B3:30)-f59e0b?style=for-the-badge)](#)\n[![Telegram](https://img.shields.io/badge/Telegram-@yebekhe-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yebekhe)\n\n<br/>\n\n> [!NOTE]\n> 📅 **تاریخ:** ۱۵ مهر ۱۴۰۵ (2026-10-07) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۴:۳۰** (به وقت تهران)\n\n<br/>\n\n</div>\n\n<div dir=\"rtl\">\n\n### 📋 جدول زنده نرخ‌ها\n\n<table width=\"100%\">\n<thead>\n<tr>\n<th width=\"8%\" align=\"center\">نماد</th>\n<th width=\"52%\" align=\"right\">عنوان شاخص بازار</th>\n<th width=\"40%\" align=\"left\">قیمت زنده (بازار آزاد)</th>\n</tr>\n</thead>\n<tbody>"
+    },
+    {
+      "id": 1136974076,
+      "repo": "masterking32/MasterDnsVPN",
+      "url": "https://github.com/masterking32/MasterDnsVPN",
+      "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
+      "language": "Go",
+      "topics": [
+        "dns",
+        "dns-client",
+        "dns-proxy",
+        "dns-server",
+        "dns-tunnel",
+        "dns-tunneling",
+        "dnstt",
+        "masterdns",
+        "masterdnsvpn",
+        "slipstream",
+        "tunnel",
+        "vpn"
+      ],
+      "stars": 7076,
+      "readme_snippet": "﻿# MasterDnsVPN Project 🔐\n\n## | 🇮🇷 [فارسی](https://github.com/masterking32/MasterDnsVPN/blob/main/README_FA.MD) | 🇬🇧 [English](https://github.com/masterking32/MasterDnsVPN/blob/main/README.MD) | 🇷🇺 [Русский](https://github.com/masterking32/MasterDnsVPN/blob/main/README_RU.MD) | 🇨🇳 [中文](https://github.com/masterking32/MasterDnsVPN/blob/main/README_ZH.MD) | 🇪🇸 [Español](https://github.com/masterking32/MasterDnsVPN/blob/main/README_ES.MD) | 🇮🇹 [Italiano](https://github.com/masterking32/MasterDnsVPN/blob/main/README_IT.MD) |\n\n**MasterDnsVPN** is a scientific and research-oriented project for carrying TCP traffic through DNS queries and responses. In broad goal, it is similar to projects such as DNSTT or SlipStream, but it follows a fundamentally different structure and implementation approach.\nThis system is designed around compatibility with many resolver behaviors and harsh network conditions, with the goal of preserving the highest possible stability and data delivery even in the worst "
     }
   ]
 }
