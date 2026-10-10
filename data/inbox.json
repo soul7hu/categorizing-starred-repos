@@ -398,6 +398,16 @@
       ],
       "stars": 7076,
       "readme_snippet": "﻿# MasterDnsVPN Project 🔐\n\n## | 🇮🇷 [فارسی](https://github.com/masterking32/MasterDnsVPN/blob/main/README_FA.MD) | 🇬🇧 [English](https://github.com/masterking32/MasterDnsVPN/blob/main/README.MD) | 🇷🇺 [Русский](https://github.com/masterking32/MasterDnsVPN/blob/main/README_RU.MD) | 🇨🇳 [中文](https://github.com/masterking32/MasterDnsVPN/blob/main/README_ZH.MD) | 🇪🇸 [Español](https://github.com/masterking32/MasterDnsVPN/blob/main/README_ES.MD) | 🇮🇹 [Italiano](https://github.com/masterking32/MasterDnsVPN/blob/main/README_IT.MD) |\n\n**MasterDnsVPN** is a scientific and research-oriented project for carrying TCP traffic through DNS queries and responses. In broad goal, it is similar to projects such as DNSTT or SlipStream, but it follows a fundamentally different structure and implementation approach.\nThis system is designed around compatibility with many resolver behaviors and harsh network conditions, with the goal of preserving the highest possible stability and data delivery even in the worst "
+    },
+    {
+      "id": 1176874460,
+      "repo": "Schmi7zz/GithubExplorer",
+      "url": "https://github.com/Schmi7zz/GithubExplorer",
+      "description": "A powerful Telegram bot to explore any GitHub repository — right from your chat.",
+      "language": "Python",
+      "topics": [],
+      "stars": 11,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"logo.png\" width=\"140\" alt=\"GitHub Explorer Bot\">\n\n# 🐙 GitHub Explorer Bot\n\n**A powerful Telegram bot to explore any GitHub repository — right from your chat.**\n\nBrowse files · Download releases · View READMEs · Check stats — all without leaving Telegram.\n\n[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://python.org)\n[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](docker-compose.yml)\n[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://t.me/SchmitzWS)\n\n[Features](#-features) · [Demo](#-demo) · [Quick Start](#-quick-start) · [Configuration](#%EF%B8%8F-configuration) · [Architecture](#-architecture)\n\n**[🇮🇷 فارسی](README.fa.md)**\n\n</div>\n\n---\n\n## ✨ Features\n\n| Feature | Description |\n|---------|-------------|\n| 📁 **File Browser** | Navigate through repository files and folders wi"
     }
   ]
 }
