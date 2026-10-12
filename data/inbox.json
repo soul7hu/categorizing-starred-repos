@@ -408,6 +408,91 @@
       "topics": [],
       "stars": 11,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"logo.png\" width=\"140\" alt=\"GitHub Explorer Bot\">\n\n# 🐙 GitHub Explorer Bot\n\n**A powerful Telegram bot to explore any GitHub repository — right from your chat.**\n\nBrowse files · Download releases · View READMEs · Check stats — all without leaving Telegram.\n\n[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)\n[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-yellow.svg)](https://python.org)\n[![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)](docker-compose.yml)\n[![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram)](https://t.me/SchmitzWS)\n\n[Features](#-features) · [Demo](#-demo) · [Quick Start](#-quick-start) · [Configuration](#%EF%B8%8F-configuration) · [Architecture](#-architecture)\n\n**[🇮🇷 فارسی](README.fa.md)**\n\n</div>\n\n---\n\n## ✨ Features\n\n| Feature | Description |\n|---------|-------------|\n| 📁 **File Browser** | Navigate through repository files and folders wi"
+    },
+    {
+      "id": 1221364817,
+      "repo": "Kianmhz/GooseRelayVPN",
+      "url": "https://github.com/Kianmhz/GooseRelayVPN",
+      "description": "SOCKS5 VPN that tunnels raw TCP through Google Apps Script to a VPS exit server, with end-to-end AES-256-GCM and domain-fronted TLS to Google",
+      "language": "Go",
+      "topics": [
+        "aes-gcm",
+        "dns-hijacking",
+        "domain-fronting",
+        "mitm",
+        "proxy",
+        "sni",
+        "socks5",
+        "tunneling",
+        "vpn"
+      ],
+      "stars": 1426,
+      "readme_snippet": "<div align=\"left\">\n<pre>\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣄⡀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⣏⣹⣿⠄⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⠿⠋⢠⣷⣦⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣶⣿⣿⣿⠛⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⣿⣿⡇⢸⣿⣿⣿⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⢸⣿⣿⡿⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⢀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⣠⣿⣿⣿⠇⠀⠀⠀⠀⠀⠀\n⠀⠀⠰⢾⣿⣿⣿⡟⠿⠿⣿⣿⠿⠿⠛⠋⣁⣴⣾⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠉⠛⠻⠷⣶⣤⣤⣤⣤⣶⣾⣿⡿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⢀⣶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠛⠛⠛⠛⠛⠂⠀⠀⠀⠀\n</pre>\n</div>\n\n# GooseRelayVPN\n\n[![GitHub](https://img.shields.io/badge/GitHub-GooseRelayVPN-blue?logo=github)](https://github.com/kianmhz/GooseRelayVPN)\n[![Latest release](https://img.shields.io/github/v/release/kianmhz/GooseRelayVPN?logo=github&color=blue)](https://github.com/kianmhz/GooseRelayVPN/releases/latest)\n[![CI](https://img.shields.io/github/actions/workflow/status/kianmhz/GooseRelayVPN/ci.yml?branch=main&label=CI&logo=github)](https://github.com/kianmhz/GooseRelayVPN/actions/workflows/ci.yml)\n[![Go]("
+    },
+    {
+      "id": 1228490158,
+      "repo": "ThisIsDara/mhr-cfw-go",
+      "url": "https://github.com/ThisIsDara/mhr-cfw-go",
+      "description": "A local proxy that runs on your machine and forwards traffic through Google.",
+      "language": "Go",
+      "topics": [
+        "domain-fronting",
+        "dpi-bypass",
+        "http",
+        "proxy",
+        "sni",
+        "vpn"
+      ],
+      "stars": 507,
+      "readme_snippet": "# [MHR-CFW](https://github.com/denuitt1/mhr-cfw) Rewritten in Go with YouTube Support Fix and Speed Improvements\n[![GitHub](https://img.shields.io/badge/GitHub-ThisIsDara-blue?logo=github)](https://github.com/ThisIsDara/mhr-cfw-go)\n[![Downloads](https://img.shields.io/github/downloads/ThisIsDara/mhr-cfw-go/total?logo=github&label=total%20downloads)](https://github.com/ThisIsDara/mhr-cfw-go/releases)\n\n**[فارسی](README_FA.md)**\n\n\n<img width=\"654\" height=\"362\" alt=\"image\" src=\"https://github.com/user-attachments/assets/bdf8ffd8-f1cd-47b4-87fd-5bc6e2ce1937\" />\n\n\n## 🚀 Improvements Over Python Version\n\n\n ## **✅ 1.  YouTube Support Fixed**\n- Proper CORS handling — Added preflight OPTIONS handling and CORS header injection for cross-origin requests\n- Content-Encoding fix — Better decoding for brotli/gzip responses\n- Range request support — Video streaming needs proper Range header handling\n## **✅ 2. Speed Improvements**\n- HTTP/2 transport — Uses HTTP/2 instead of HTTP/1.1 (faster multiplexing)"
+    },
+    {
+      "id": 1222975902,
+      "repo": "denuitt1/mhr-cfw",
+      "url": "https://github.com/denuitt1/mhr-cfw",
+      "description": "A Domain-Fronting Relay that routes traffic though GAS (Google Apps Script) and forwards it to Cloudflare Workers. Designed to bypass DPI.",
+      "language": "Python",
+      "topics": [
+        "cloudflare-workers",
+        "domain-fronting",
+        "dpi",
+        "dpi-bypass",
+        "google-apps-script",
+        "http",
+        "mitm",
+        "proxy",
+        "sni"
+      ],
+      "stars": 4424,
+      "readme_snippet": "# MHR-CFW\r\n\r\n### MITM Domain-Fronted HTTP Relay + Cloudflare Worker Exit\r\n\r\n[![GitHub](https://img.shields.io/badge/GitHub-MHR_CFW-red?logo=github)](https://github.com/denuitt1/mhr-cfw)\r\n\r\n\r\n| [English](README.md) | [Persian](README_FA.md) |\r\n| :---: | :---: |\r\n\r\n---\r\n\r\n## How It Works\r\n\r\n### 1 - GAS + Cloudflare Worker Exit\r\n```\r\nClient -> Local Relay -> Google/CDN Front -> GAS (Google Apps Script) Relay -> Cloudflare Worker -> Exit\r\n            |\r\n            +-> Shows www.google.com to network DPI filter\r\n```\r\n\r\n### 2 - GAS + Cloudflare Worker Middle + Self-Hosted Upstream Forwarder Relay Exit\r\n```\r\nClient -> Local Relay -> Google/CDN Front -> GAS (Google Apps Script) Relay -> Cloudflare Worker -> Self-Hosted Upstream Forwarder -> Exit\r\n            |\r\n            +-> Shows www.google.com to network DPI filter\r\n```\r\n\r\nIn normal use, the browser sends traffic to the proxy running on your computer.\r\nThe proxy sends that traffic through Google-facing infrastructure so the network only s"
+    },
+    {
+      "id": 1217102150,
+      "repo": "therealaleph/MasterHttpRelayVPN-RUST",
+      "url": "https://github.com/therealaleph/MasterHttpRelayVPN-RUST",
+      "description": "Rust port of @masterking32's MasterHttpRelayVPN — all credit to @masterking32 for the original idea and Python implementation. Free DPI bypass via a Google Apps Script relay with TLS SNI concealment. CLI + cross-platform desktop UI, HTTP + SOCKS5 proxy, no runtime deps.",
+      "language": "Rust",
+      "topics": [
+        "anti-censorship",
+        "censorship-circumvention",
+        "cross-platform",
+        "desktop-app",
+        "domain-fronting",
+        "dpi-bypass",
+        "egui",
+        "google-apps-script",
+        "gui",
+        "http-proxy",
+        "iran",
+        "mitm",
+        "proxy",
+        "rust",
+        "sni",
+        "socks5",
+        "tls"
+      ],
+      "stars": 3601,
+      "readme_snippet": "# mhrv-rs — bypass censorship for free, with your own Google account\n\n[![Latest release](https://img.shields.io/github/v/release/therealaleph/MasterHttpRelayVPN-RUST?display_name=tag&logo=github&label=release&color=blue&cacheSeconds=300)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/latest)\n[![Downloads](https://img.shields.io/github/downloads/therealaleph/MasterHttpRelayVPN-RUST/total.svg?label=downloads&logo=github&cacheSeconds=300)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases)\n[![CI](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/actions/workflows/release.yml/badge.svg)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/actions/workflows/release.yml)\n[![License: MIT](https://img.shields.io/github/license/therealaleph/MasterHttpRelayVPN-RUST?color=blue)](LICENSE)\n[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat&logo=github)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/star"
     }
   ]
 }
