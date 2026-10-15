@@ -493,6 +493,42 @@
       ],
       "stars": 3601,
       "readme_snippet": "# mhrv-rs — bypass censorship for free, with your own Google account\n\n[![Latest release](https://img.shields.io/github/v/release/therealaleph/MasterHttpRelayVPN-RUST?display_name=tag&logo=github&label=release&color=blue&cacheSeconds=300)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/latest)\n[![Downloads](https://img.shields.io/github/downloads/therealaleph/MasterHttpRelayVPN-RUST/total.svg?label=downloads&logo=github&cacheSeconds=300)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases)\n[![CI](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/actions/workflows/release.yml/badge.svg)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/actions/workflows/release.yml)\n[![License: MIT](https://img.shields.io/github/license/therealaleph/MasterHttpRelayVPN-RUST?color=blue)](LICENSE)\n[![Stars](https://img.shields.io/github/stars/therealaleph/MasterHttpRelayVPN-RUST?style=flat&logo=github)](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/star"
+    },
+    {
+      "id": 1288237617,
+      "repo": "antoinepdev/telegram-file-gatekeeper",
+      "url": "https://github.com/antoinepdev/telegram-file-gatekeeper",
+      "description": "",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 3,
+      "readme_snippet": "# Telegram File Gatekeeper Bot\n\nA Telegram bot built with **Node.js** and the `node-telegram-bot-api v2` library, designed to share files through automatically generated links. Ideal for keeping files organized and secure in a private Telegram group without exposing it directly to end users.\n\n---\n\n## ✨ Key Features\n\n- **🗄️ Telegram Group as database**: Files are stored in your Telegram group (it is recommended to keep the group private so that only admins send content to the bot, preventing unnecessary link generation).\n- **🔗 Permanent Links**: Each file uploaded to the Telegram group receives a unique and permanent link.\n- **🌐 Universal Access**: Links can be shared with anyone, even if they are not members of the Telegram group.\n- **🛡️ Enhanced Privacy**: Your Telegram group (where you store the files) will not interact with users; therefore, if any file has copyright issues, the bot will bear the consequences, not the entire group with all your files. (As this feature can encourage "
+    },
+    {
+      "id": 1367573330,
+      "repo": "netrair/NetraUploader",
+      "url": "https://github.com/netrair/NetraUploader",
+      "description": "Telegram file uploader bot powered by Cloudflare Workers",
+      "language": "JavaScript",
+      "topics": [
+        "cloudflare-workers",
+        "file-upload",
+        "javascript",
+        "telegram",
+        "telegrambot"
+      ],
+      "stars": 36,
+      "readme_snippet": "<div align=\"center\">\n\n# 🤖 NetraUploader\n\n**A serverless Telegram file-uploader bot — runs entirely on Cloudflare, no server required.**\n\n[![Telegram Bot API](https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots/api)\n[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)\n[![Cloudflare D1](https://img.shields.io/badge/Cloudflare-D1%20Database-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://developers.cloudflare.com/d1/)\n\n📢 **Telegram Channel:** [@NetraIR](https://t.me/NetraIR)\n\n**Language:** [🇬🇧 English](#english) · [🇮🇷 فارسی](#فارسی) · [🇨🇳 中文](#中文) · [🇷🇺 Русский](#русский)\n\n</div>\n\n---\n\n## English\n\n📢 Telegram Channel: [@NetraIR](https://t.me/NetraIR)\n\n### 📖 What this is\n\nA Telegram bot that stores files (in a private Telegram channel you control) and hands out a private down"
+    },
+    {
+      "id": 1144520675,
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "language": "Python",
+      "topics": [],
+      "stars": 60573,
+      "readme_snippet": "<div align=\"center\">\n\n<h1>\n  <picture>\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\">\n    <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\">\n  </picture>\n</h1>\n\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![Package Manager: uv](assets/package-manager-uv.svg)](https://github.com/astral-sh/uv)\n[![Testing: Pytest](https://img.shields.io/badge/Testing-Pytest-ad1457.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/actions/workflows/tests.yml)\n[![Type Checker: Ty](https://img.shields.io/badge/Type%20Checker-ty-fdd835.svg?style=for-the-badge)](https://pypi.org/project/ty/)\n[![Formatter: Ruff](https://im"
     }
   ]
 }
