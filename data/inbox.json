@@ -529,6 +529,76 @@
       "topics": [],
       "stars": 60573,
       "readme_snippet": "<div align=\"center\">\n\n<h1>\n  <picture>\n    <source media=\"(prefers-color-scheme: light)\" srcset=\"assets/free-claude-code-wordmark-light.svg\">\n    <img src=\"assets/free-claude-code-wordmark-dark.svg\" alt=\"Free Claude Code\" width=\"610\">\n  </picture>\n</h1>\n\n[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-2e7d32.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/blob/main/LICENSE)\n[![Python 3.14](https://img.shields.io/badge/python-3.14-3776ab.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)\n[![Package Manager: uv](assets/package-manager-uv.svg)](https://github.com/astral-sh/uv)\n[![Testing: Pytest](https://img.shields.io/badge/Testing-Pytest-ad1457.svg?style=for-the-badge)](https://github.com/Alishahryar1/free-claude-code/actions/workflows/tests.yml)\n[![Type Checker: Ty](https://img.shields.io/badge/Type%20Checker-ty-fdd835.svg?style=for-the-badge)](https://pypi.org/project/ty/)\n[![Formatter: Ruff](https://im"
+    },
+    {
+      "id": 1409530532,
+      "repo": "LordVersA/noleaker",
+      "url": "https://github.com/LordVersA/noleaker",
+      "description": "Chrome extension (Manifest V3): SOCKS5 proxy manager with leak protection. Blocks WebRTC, DNS and QUIC leaks, matches timezone and language to the proxy, with kill switch and built-in leak test. A FoxyProxy alternative.",
+      "language": "TypeScript",
+      "topics": [
+        "anti-fingerprinting",
+        "browser-extension",
+        "censorship-circumvention",
+        "chrome-extension",
+        "dns-leak",
+        "foxyproxy-alternative",
+        "iran",
+        "kill-switch",
+        "leak-protection",
+        "manifest-v3",
+        "privacy",
+        "proxy",
+        "proxy-switcher",
+        "socks5",
+        "socks5-proxy",
+        "timezone-spoofing",
+        "typescript",
+        "webrtc-leak"
+      ],
+      "stars": 15,
+      "readme_snippet": "<p align=\"center\"><img src=\"docs/brand/logo.jpg\" alt=\"noleaker: SOCKS5 proxy extension for Chrome and Firefox with leak protection\" width=\"520\" /></p>\n\n# noleaker: SOCKS5 proxy extension for Chrome and Firefox with leak protection\n\n[![Latest release](https://img.shields.io/github/v/release/LordVersA/noleaker)](https://github.com/LordVersA/noleaker/releases/latest)\n[![Build and release](https://github.com/LordVersA/noleaker/actions/workflows/release.yml/badge.svg)](https://github.com/LordVersA/noleaker/actions/workflows/release.yml)\n![Chrome 120+](https://img.shields.io/badge/Chrome-120%2B-4285F4?logo=googlechrome&logoColor=white)\n![Firefox 140+](https://img.shields.io/badge/Firefox-140%2B-FF7139?logo=firefoxbrowser&logoColor=white)\n![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)\n[![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue)](LICENSE)\n\n**noleaker** is a free, open-source browser extension for Chrome and Firefox (Manifest V3) that sends your brows"
+    },
+    {
+      "id": 1300575020,
+      "repo": "Floxu1/UAC-SNI-Spoofer-Windows",
+      "url": "https://github.com/Floxu1/UAC-SNI-Spoofer-Windows",
+      "description": "Windows desktop app for SNI spoofing, smart routing, country-based configs, Xray integration, and live system proxy control.",
+      "language": "Python",
+      "topics": [
+        "desktop-app",
+        "proxy",
+        "pyside6",
+        "python",
+        "smart-routing",
+        "sni-spoofing",
+        "tunnel",
+        "vpn",
+        "windivert",
+        "windows",
+        "xray"
+      ],
+      "stars": 394,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/icon.png\" width=\"112\" alt=\"UAC SNI Spoofer icon\">\n\n# UAC SNI Spoofer — Windows\n\n<p dir=\"rtl\"><b>داشبورد شبکه یک‌کلیکی برای ویندوز: <code>Xray</code> با متد SNI Spoofing گروه Patterniha، به‌همراه موتور دوم سایفون روی وارپ</b></p>\n\n[![Version](https://img.shields.io/badge/version-1.1.1-2ea44f?style=flat-square)](https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases)\n[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11%20x64-0078D6?style=flat-square&logo=windows)](#دانلود-و-شروع-سریع)\n[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](LICENSE)\n[![Latest release](https://img.shields.io/github/v/release/Floxu1/UAC-SNI-Spoofer-Windows?style=flat-square&label=latest)](https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases/latest)\n[![Downloads](https://img.shields.io/github/downloads/Floxu1/UAC-SNI-Spoofer-Windows/total?style=flat-square)](https://github.com/Floxu1/UAC-SNI-Spoofer-Windows/releases)\n"
+    },
+    {
+      "id": 1367313108,
+      "repo": "freeb5d/regionhop",
+      "url": "https://github.com/freeb5d/regionhop",
+      "description": "Multi-region Psiphon tunnel manager for a single Linux server: web panel + SSH CLI, SOCKS proxies bound to 127.0.0.1 only",
+      "language": "Go",
+      "topics": [
+        "golang",
+        "linux",
+        "proxy",
+        "psiphon",
+        "self-hosted",
+        "socks5",
+        "systemd",
+        "tunnel"
+      ],
+      "stars": 34,
+      "readme_snippet": "<div align=\"center\">\n\n**English · [Русский](README.ru.md) · [فارسی](README.fa.md) · [中文](README.zh.md)**\n\n# regionhop\n\n**Multi-region Psiphon tunnel manager for a single Linux server.**\nWeb panel + SSH CLI. SOCKS proxies stay local to the box — always.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Go](https://img.shields.io/badge/panel-Go-00ADD8)](panel)\n[![Platform](https://img.shields.io/badge/platform-Debian%2FUbuntu%2FFedora%2FArch%20(systemd)-informational)](install.sh)\n[![Release](https://img.shields.io/github/v/release/freeb5d/regionhop)](https://github.com/freeb5d/regionhop/releases/latest)\n\n![Dashboard](docs/screenshots/dashboard.png)\n\n</div>\n\n---\n\n## Contents\n\n- [What it does](#what-it-does)\n- [Requirements](#requirements)\n- [Install](#install)\n- [Before you add a location](#before-you-add-a-location)\n- [Using it](#using-it)\n- [Available regions](#available-regions)\n- [Exit region](#exit-region)\n- [Managing it over SSH](#managing-it-over-"
     }
   ]
 }
