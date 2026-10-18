@@ -599,6 +599,20 @@
       ],
       "stars": 34,
       "readme_snippet": "<div align=\"center\">\n\n**English · [Русский](README.ru.md) · [فارسی](README.fa.md) · [中文](README.zh.md)**\n\n# regionhop\n\n**Multi-region Psiphon tunnel manager for a single Linux server.**\nWeb panel + SSH CLI. SOCKS proxies stay local to the box — always.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Go](https://img.shields.io/badge/panel-Go-00ADD8)](panel)\n[![Platform](https://img.shields.io/badge/platform-Debian%2FUbuntu%2FFedora%2FArch%20(systemd)-informational)](install.sh)\n[![Release](https://img.shields.io/github/v/release/freeb5d/regionhop)](https://github.com/freeb5d/regionhop/releases/latest)\n\n![Dashboard](docs/screenshots/dashboard.png)\n\n</div>\n\n---\n\n## Contents\n\n- [What it does](#what-it-does)\n- [Requirements](#requirements)\n- [Install](#install)\n- [Before you add a location](#before-you-add-a-location)\n- [Using it](#using-it)\n- [Available regions](#available-regions)\n- [Exit region](#exit-region)\n- [Managing it over SSH](#managing-it-over-"
+    },
+    {
+      "id": 960951640,
+      "repo": "goucey/EverythingExtension",
+      "url": "https://github.com/goucey/EverythingExtension",
+      "description": "Everything Extension for Command Palette",
+      "language": "C#",
+      "topics": [
+        "cmdpal-everything",
+        "cmdpal-extension",
+        "everything"
+      ],
+      "stars": 36,
+      "readme_snippet": "﻿# EverythingExtension\n> 切换语言：[English](./README_en.md)\n\nEverythingExtension 是一个用于 Windows 的命令面板扩展，它允许您通过命令面板快速访问 Everything 数据库中的文件和文件夹。\n\n![1](./doc/PixPin_2025-04-05_08-48-56.png)\n\n## 使用方法\n1. 输入 `Everything`（或选择 `Everything 搜索`）以打开 Everything 命令面板。\n2. 在命令面板中输入 `搜索关键字` 进行搜索。\n3. 在搜索结果中，选择要打开的文件或文件夹，按 Enter 键进行打开。\n4. 您还可以使用其他快捷键和功能(Ctrl+K)来操作搜索结果。\n5. 搜索中可以使用内置 `宏` （设置中需要开启宏搜索）具有针对性的搜索，例如：`doc:、audio:、zip:、pic:、video:、web:、exe:`等。\n\n## `宏` 搜索说明（支持的文件类型）\n- `doc:`：搜索文档文件，如 .doc、.docx、.pdf 等。\n  > asm,c,cc,chm,cpp,csv,cxx,doc,docm,docx,dot,dotm,dotx,efu,epub,h,hpp,htm,html,hxx,ini,java,js,json,lua,md,mht,mhtml,mobi,odp,ods,odt,ofd,pdf,php,pl,potm,potx,ppam,pps,ppsm,ppsx,ppt,pptm,pptx,ps1xml,pssc,pub,py,rtf,sldm,sldx,sql,tsv,txt,vb,vsd,wpd,wps,wri,xlam,xls,xlsb,xlsm,xlsx,xltm,xltx,xml,xsl\n\n- `audio:`：搜索音频文件，如 .mp3、.wav、.flac 等。\n  > aac,ac3,adt,adts,aif,aifc,aiff,amr,ape,au,cda,dts,ec3,fla,flac,it,lpcm,m1a,m2a,m3u,m3u8,m4a,m4b,m4p,mid,midi,mka,mod,mp2,mp3,mpa,mpc,oga,ogg,opus,ra,rmi,snd,spc,umx"
     }
   ]
 }
