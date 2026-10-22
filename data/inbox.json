@@ -666,6 +666,16 @@
       ],
       "stars": 384,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/icon.png\" width=\"104\" alt=\"ZedSecure\">\n</p>\n\n<h1 align=\"center\">ZedSecure</h1>\n\n<p align=\"center\">Every way through, in one app.</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/CluvexStudio/ZedSecure/releases/latest\"><img src=\"https://img.shields.io/github/v/release/CluvexStudio/ZedSecure?style=flat-square&color=C7F24E&labelColor=15170B&label=release\" alt=\"Latest release\"></a>\n  <a href=\"https://play.google.com/store/apps/details?id=com.zedsecure.vpn\"><img src=\"https://img.shields.io/badge/Google%20Play-install-C7F24E?style=flat-square&labelColor=15170B\" alt=\"Google Play\"></a>\n  <img src=\"https://img.shields.io/badge/Android%20%C2%B7%20Linux%20%C2%B7%20Windows%20%C2%B7%20macOS-C7F24E?style=flat-square&labelColor=15170B\" alt=\"Android, Linux, Windows, macOS\">\n  <a href=\"LICENSE\"><img src=\"https://img.shields.io/badge/license-AGPL--3.0-C7F24E?style=flat-square&labelColor=15170B\" alt=\"AGPL-3.0\"></a>\n</p>\n\n<p align=\"center\"><b>English</b> · <"
+    },
+    {
+      "id": 1340887903,
+      "repo": "TaJirax/CottenRouter",
+      "url": "https://github.com/TaJirax/CottenRouter",
+      "description": "One public port 53 in front of many DNS tunnels.",
+      "language": "Go",
+      "topics": [],
+      "stars": 141,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/assets/social-preview.png\" alt=\"CottenRouter — One public gateway for multiple DNS tunnels\" width=\"100%\">\n\n**Fast, safe, and payload-transparent routing for DNS and TLS transports.**\n\n[![Release](https://img.shields.io/github/v/release/TaJirax/CottenRouter?style=flat-square&logo=github&label=release)](https://github.com/TaJirax/CottenRouter/releases/latest)\n[![CI](https://img.shields.io/github/actions/workflow/status/TaJirax/CottenRouter/ci.yml?branch=main&style=flat-square&logo=githubactions&label=tests)](https://github.com/TaJirax/CottenRouter/actions/workflows/ci.yml)\n[![Go](https://img.shields.io/github/go-mod/go-version/TaJirax/CottenRouter?style=flat-square&logo=go)](go.mod)\n[![License](https://img.shields.io/github/license/TaJirax/CottenRouter?style=flat-square)](LICENSE)\n[![Container](https://img.shields.io/badge/GHCR-multi--arch-blue?style=flat-square&logo=docker)](https://github.com/TaJirax/CottenRouter/pkgs/container/cottenrouter)\n\n[فارسی"
     }
   ]
 }
