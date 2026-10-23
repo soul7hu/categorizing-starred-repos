@@ -676,6 +676,37 @@
       "topics": [],
       "stars": 141,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"docs/assets/social-preview.png\" alt=\"CottenRouter — One public gateway for multiple DNS tunnels\" width=\"100%\">\n\n**Fast, safe, and payload-transparent routing for DNS and TLS transports.**\n\n[![Release](https://img.shields.io/github/v/release/TaJirax/CottenRouter?style=flat-square&logo=github&label=release)](https://github.com/TaJirax/CottenRouter/releases/latest)\n[![CI](https://img.shields.io/github/actions/workflow/status/TaJirax/CottenRouter/ci.yml?branch=main&style=flat-square&logo=githubactions&label=tests)](https://github.com/TaJirax/CottenRouter/actions/workflows/ci.yml)\n[![Go](https://img.shields.io/github/go-mod/go-version/TaJirax/CottenRouter?style=flat-square&logo=go)](go.mod)\n[![License](https://img.shields.io/github/license/TaJirax/CottenRouter?style=flat-square)](LICENSE)\n[![Container](https://img.shields.io/badge/GHCR-multi--arch-blue?style=flat-square&logo=docker)](https://github.com/TaJirax/CottenRouter/pkgs/container/cottenrouter)\n\n[فارسی"
+    },
+    {
+      "id": 1352804032,
+      "repo": "farshidrezaei/vidonex",
+      "url": "https://github.com/farshidrezaei/vidonex",
+      "description": "⚡ Declarative Video Composition & FFmpeg Filtergraph Compiler Engine in Go + Modern Non-Linear Desktop Studio",
+      "language": "Go",
+      "topics": [
+        "audio-ducking",
+        "audiogram",
+        "chromakey",
+        "creative-tools",
+        "declarative-ui",
+        "desktop-app",
+        "ffmpeg",
+        "filtergraph",
+        "golang",
+        "motion-graphics",
+        "nuxt-ui",
+        "remotion-alternative",
+        "render-engine",
+        "timeline-editor",
+        "video-automation",
+        "video-editor",
+        "video-generation",
+        "video-processing",
+        "vue3",
+        "wails"
+      ],
+      "stars": 21,
+      "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/assets/logo.png\">\n    <img src=\".github/assets/logo.png\" width=\"130\" alt=\"Vidonex Logo\" />\n  </picture>\n</p>\n\n<h1 align=\"center\">Vidonex</h1>\n\n<p align=\"center\">\n  <strong>The Next-Gen Non-Linear Video Editor & FFmpeg Filtergraph Compiler Engine in Go</strong>\n</p>\n\n<p align=\"center\">\n  <em>High-Performance Go Engine SDK &bull; Cross-Platform Desktop Workstation &bull; Automation CLI &bull; Declarative YAML</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/farshidrezaei/vidonex/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/farshidrezaei/vidonex/ci.yml?branch=main&style=flat-square&logo=github&label=CI\" alt=\"CI Status\" /></a>\n  <a href=\"https://github.com/farshidrezaei/vidonex/releases/latest\"><img src=\"https://img.shields.io/github/v/release/farshidrezaei/vidonex?color=6366f1&style=flat-square&logo=github&label=Release\" alt=\"Latest Releas"
     }
   ]
 }
