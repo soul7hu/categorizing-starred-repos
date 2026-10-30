@@ -707,6 +707,24 @@
       ],
       "stars": 21,
       "readme_snippet": "<p align=\"center\">\n  <picture>\n    <source media=\"(prefers-color-scheme: dark)\" srcset=\".github/assets/logo.png\">\n    <img src=\".github/assets/logo.png\" width=\"130\" alt=\"Vidonex Logo\" />\n  </picture>\n</p>\n\n<h1 align=\"center\">Vidonex</h1>\n\n<p align=\"center\">\n  <strong>The Next-Gen Non-Linear Video Editor & FFmpeg Filtergraph Compiler Engine in Go</strong>\n</p>\n\n<p align=\"center\">\n  <em>High-Performance Go Engine SDK &bull; Cross-Platform Desktop Workstation &bull; Automation CLI &bull; Declarative YAML</em>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/farshidrezaei/vidonex/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/farshidrezaei/vidonex/ci.yml?branch=main&style=flat-square&logo=github&label=CI\" alt=\"CI Status\" /></a>\n  <a href=\"https://github.com/farshidrezaei/vidonex/releases/latest\"><img src=\"https://img.shields.io/github/v/release/farshidrezaei/vidonex?color=6366f1&style=flat-square&logo=github&label=Release\" alt=\"Latest Releas"
+    },
+    {
+      "id": 675803029,
+      "repo": "lilendian0x00/xray-knife",
+      "url": "https://github.com/lilendian0x00/xray-knife",
+      "description": "The Ultimate Swiss Army Knife for Xray and Sing-box",
+      "language": "Go",
+      "topics": [
+        "cencorship",
+        "gfw",
+        "sing-box",
+        "tunnel",
+        "v2ray",
+        "xray-core",
+        "xray-core-json"
+      ],
+      "stars": 448,
+      "readme_snippet": "<div align=\"center\">\n\n# xray-knife 🔪\n\n**The Ultimate Swiss Army Knife for Xray and Sing-box**\n\nA powerful command-line utility and secure web UI designed for managing, testing, and utilizing proxy configurations with dual-core support for both `xray-core` and `sing-box`.\n\n</div>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/v/release/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"Release Version\">\n  <img src=\"https://img.shields.io/github/actions/workflow/status/lilendian0x00/xray-knife/build.yaml?branch=master&style=for-the-badge\" alt=\"Build Status\">\n  <img src=\"https://img.shields.io/github/go-mod/go-version/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"Go Version\">\n  <img src=\"https://img.shields.io/github/license/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"License\">\n</p>\n\n---\n\n[**English**](https://github.com/lilendian0x00/xray-knife/blob/master/README.md) [简体中文](https://github.com/lilendian0x00/xray-knife/blob/master/docs/zh_README.md)\n\n`xray-knife`"
     }
   ]
 }
