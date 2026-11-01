@@ -725,6 +725,26 @@
       ],
       "stars": 448,
       "readme_snippet": "<div align=\"center\">\n\n# xray-knife 🔪\n\n**The Ultimate Swiss Army Knife for Xray and Sing-box**\n\nA powerful command-line utility and secure web UI designed for managing, testing, and utilizing proxy configurations with dual-core support for both `xray-core` and `sing-box`.\n\n</div>\n\n<p align=\"center\">\n  <img src=\"https://img.shields.io/github/v/release/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"Release Version\">\n  <img src=\"https://img.shields.io/github/actions/workflow/status/lilendian0x00/xray-knife/build.yaml?branch=master&style=for-the-badge\" alt=\"Build Status\">\n  <img src=\"https://img.shields.io/github/go-mod/go-version/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"Go Version\">\n  <img src=\"https://img.shields.io/github/license/lilendian0x00/xray-knife?style=for-the-badge\" alt=\"License\">\n</p>\n\n---\n\n[**English**](https://github.com/lilendian0x00/xray-knife/blob/master/README.md) [简体中文](https://github.com/lilendian0x00/xray-knife/blob/master/docs/zh_README.md)\n\n`xray-knife`"
+    },
+    {
+      "id": 1404840859,
+      "repo": "thtbee/nectarlink",
+      "url": "https://github.com/thtbee/nectarlink",
+      "description": "Your Android phone and your Windows PC, working as one. Local-first, end-to-end encrypted, no account.",
+      "language": "Rust",
+      "topics": [
+        "android",
+        "jetpack-compose",
+        "kde-connect-features",
+        "kotlin",
+        "localsend",
+        "phone-link",
+        "qt",
+        "rust",
+        "windows"
+      ],
+      "stars": 579,
+      "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/brand/icon.svg\" alt=\"\" width=\"96\" height=\"96\">\n\n# NectarLink\n\n**Your Android phone and your PC, working as one.**\n\nNotifications, messages, calls, clipboard, files, photos, screen mirroring and\nphone apps in windows, between Android and Windows 10 (2004+) or 11. Free and open source.\nLocal-first, end-to-end encrypted, no account and no cloud.\n\nHi, I'm Bee, and yes, a bee built an app called NectarLink. I build cool stuff\nin the open on [𝕏 @thtbee_](https://x.com/thtbee_), so come see what's next.\nFeedback, bugs or ideas? DM me directly.\n\n[![Latest release](https://img.shields.io/github/v/release/thtbee/nectarlink?label=download)](https://github.com/thtbee/nectarlink/releases/latest)\n[![CI](https://github.com/thtbee/nectarlink/actions/workflows/ci.yml/badge.svg)](https://github.com/thtbee/nectarlink/actions/workflows/ci.yml)\n[![Apps: GPL-3.0-or-later](https://img.shields.io/badge/apps-GPL--3.0--or--later-blue)](LICENSE)\n[![Core: MPL-2.0](https://im"
     }
   ]
 }
