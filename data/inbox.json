@@ -745,6 +745,22 @@
       ],
       "stars": 579,
       "readme_snippet": "<div align=\"center\">\n\n<img src=\"assets/brand/icon.svg\" alt=\"\" width=\"96\" height=\"96\">\n\n# NectarLink\n\n**Your Android phone and your PC, working as one.**\n\nNotifications, messages, calls, clipboard, files, photos, screen mirroring and\nphone apps in windows, between Android and Windows 10 (2004+) or 11. Free and open source.\nLocal-first, end-to-end encrypted, no account and no cloud.\n\nHi, I'm Bee, and yes, a bee built an app called NectarLink. I build cool stuff\nin the open on [𝕏 @thtbee_](https://x.com/thtbee_), so come see what's next.\nFeedback, bugs or ideas? DM me directly.\n\n[![Latest release](https://img.shields.io/github/v/release/thtbee/nectarlink?label=download)](https://github.com/thtbee/nectarlink/releases/latest)\n[![CI](https://github.com/thtbee/nectarlink/actions/workflows/ci.yml/badge.svg)](https://github.com/thtbee/nectarlink/actions/workflows/ci.yml)\n[![Apps: GPL-3.0-or-later](https://img.shields.io/badge/apps-GPL--3.0--or--later-blue)](LICENSE)\n[![Core: MPL-2.0](https://im"
+    },
+    {
+      "id": 1424291110,
+      "repo": "armanlife/firefox-vpn-client",
+      "url": "https://github.com/armanlife/firefox-vpn-client",
+      "description": "Free VPN for Android, Windows, macOS, and Linux through Mozilla's servers over HTTP/2 and HTTP/3, with Firefox Accounts, multi-account rotation, and smart routing",
+      "language": "Go",
+      "topics": [
+        "android-vpn",
+        "fastly",
+        "firefox-vpn",
+        "free-to-use",
+        "vpn-client"
+      ],
+      "stars": 584,
+      "readme_snippet": "<div align=\"center\">\n\n**🇺🇸 English** &nbsp;/&nbsp; [🇨🇳 简体中文](docs/readme/README_zh.md) &nbsp;/&nbsp; [🇷🇺 Русский](docs/readme/README_ru.md) &nbsp;/&nbsp; [🇮🇷 فارسی](docs/readme/README_fa.md)\n\n</div>\n<br>\n\n<p align=\"center\"><img src=\"docs/images/logo.png\" width=\"128\" alt=\"Firefox VPN\"></p>\n\n<h1 align=\"center\">Firefox VPN</h1>\n\n<div align=\"center\">\n\n[![Downloads](https://img.shields.io/github/downloads/armanlife/firefox-vpn-client/total?style=flat-square&logo=github&label=Downloads)](https://github.com/armanlife/firefox-vpn-client/releases)\n[![Last Version](https://img.shields.io/github/v/release/armanlife/firefox-vpn-client?style=flat-square&label=Version)](https://github.com/armanlife/firefox-vpn-client/releases/latest)\n[![License](https://img.shields.io/github/license/armanlife/firefox-vpn-client?style=flat-square&label=License)](LICENSE)\n\n</div>\n\n## What is Firefox VPN?\n\n**Firefox VPN** is a free, open-source VPN that works with a Firefox Account. It carries your internet traffic thr"
     }
   ]
 }
