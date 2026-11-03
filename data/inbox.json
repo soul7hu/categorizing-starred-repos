@@ -761,6 +761,44 @@
       ],
       "stars": 584,
       "readme_snippet": "<div align=\"center\">\n\n**🇺🇸 English** &nbsp;/&nbsp; [🇨🇳 简体中文](docs/readme/README_zh.md) &nbsp;/&nbsp; [🇷🇺 Русский](docs/readme/README_ru.md) &nbsp;/&nbsp; [🇮🇷 فارسی](docs/readme/README_fa.md)\n\n</div>\n<br>\n\n<p align=\"center\"><img src=\"docs/images/logo.png\" width=\"128\" alt=\"Firefox VPN\"></p>\n\n<h1 align=\"center\">Firefox VPN</h1>\n\n<div align=\"center\">\n\n[![Downloads](https://img.shields.io/github/downloads/armanlife/firefox-vpn-client/total?style=flat-square&logo=github&label=Downloads)](https://github.com/armanlife/firefox-vpn-client/releases)\n[![Last Version](https://img.shields.io/github/v/release/armanlife/firefox-vpn-client?style=flat-square&label=Version)](https://github.com/armanlife/firefox-vpn-client/releases/latest)\n[![License](https://img.shields.io/github/license/armanlife/firefox-vpn-client?style=flat-square&label=License)](LICENSE)\n\n</div>\n\n## What is Firefox VPN?\n\n**Firefox VPN** is a free, open-source VPN that works with a Firefox Account. It carries your internet traffic thr"
+    },
+    {
+      "id": 1088320038,
+      "repo": "marlboro-advance/mpvEx",
+      "url": "https://github.com/marlboro-advance/mpvEx",
+      "description": "A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt",
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "ffmpeg",
+        "jetpack-compose",
+        "jni-android",
+        "kotlin",
+        "material-design",
+        "mediainfo",
+        "mpv",
+        "videoplayer"
+      ],
+      "stars": 2734,
+      "readme_snippet": "![banner](fastlane/metadata/android/en-US/images/featureGraphic.png)\n\n# mpvExtended\n[![Google Play](https://img.shields.io/badge/Google_Play-Install-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.adityanarvekar.mpvex&pli=1)\n[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/marlboro-advance/mpvex.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/marlboro-advance/mpvex/releases/latest)\n[![GitHub all releases](https://img.shields.io/github/downloads/marlboro-advance/mpvex/total?logo=github&cacheSeconds=3600)](https://github.com/marlboro-advance/mpvex/releases/latest)\n[![Privacy Policy](https://img.shields.io/badge/Privacy%20Policy-View-brightgreen?logo=shield)](https://marlboro-advance.github.io/mpvEx/privacy-policy.html)\n\n\n**mpvExtended is a fork of [mpv-android](https://github.com/mpv-android/mpv-android), built on the libmpv library. It aims\nto combine the powerful features of mpv with an easy to us"
+    },
+    {
+      "id": 1217705349,
+      "repo": "Riteshp2001/mpvRx",
+      "url": "https://github.com/Riteshp2001/mpvRx",
+      "description": "The most Powerful, Efficient + Feature-packed media player fork you’ll find anywhere.",
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "expressive",
+        "ffmpeg",
+        "kotlin",
+        "md3e",
+        "video",
+        "videoplayer"
+      ],
+      "stars": 881,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"website/public/images/icon.svg\" width=\"250\" height=\"250\" alt=\"mpvRx solid purple app icon\" />\n</p>\n\n<h1 align=\"center\">mpvRx</h1>\n\n<p align=\"center\">\n  <a href=\"https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.gyrolet.mpvrx%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FRiteshp2001%2FmpvRx%22%2C%22author%22%3A%22Riteshp2001%22%2C%22name%22%3A%22mpvRx%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C"
     }
   ]
 }
