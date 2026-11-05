@@ -799,6 +799,24 @@
       ],
       "stars": 881,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"website/public/images/icon.svg\" width=\"250\" height=\"250\" alt=\"mpvRx solid purple app icon\" />\n</p>\n\n<h1 align=\"center\">mpvRx</h1>\n\n<p align=\"center\">\n  <a href=\"https://apps.obtainium.imranr.dev/redirect?r=obtainium://app/%7B%22id%22%3A%22app.gyrolet.mpvrx%22%2C%22url%22%3A%22https%3A%2F%2Fgithub.com%2FRiteshp2001%2FmpvRx%22%2C%22author%22%3A%22Riteshp2001%22%2C%22name%22%3A%22mpvRx%22%2C%22preferredApkIndex%22%3A0%2C%22additionalSettings%22%3A%22%7B%5C%22includePrereleases%5C%22%3Afalse%2C%5C%22fallbackToOlderReleases%5C%22%3Atrue%2C%5C%22filterReleaseTitlesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22filterReleaseNotesByRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22verifyLatestTag%5C%22%3Afalse%2C%5C%22sortMethodChoice%5C%22%3A%5C%22date%5C%22%2C%5C%22useLatestAssetDateAsReleaseDate%5C%22%3Afalse%2C%5C%22releaseTitleAsVersion%5C%22%3Afalse%2C%5C%22trackOnly%5C%22%3Afalse%2C%5C%22versionExtractionRegEx%5C%22%3A%5C%22%5C%22%2C%5C%22matchGroupToUse%5C%22%3A%5C%22%5C%22%2C%5C"
+    },
+    {
+      "id": 1357388553,
+      "repo": "Vauth/FoxyVPN",
+      "url": "https://github.com/Vauth/FoxyVPN",
+      "description": "Subscription-free unofficial Firefox VPN client for Android.",
+      "language": "Kotlin",
+      "topics": [
+        "android-vpn",
+        "fastly",
+        "firefox-vpn",
+        "foxyvpn",
+        "free-to-use",
+        "unofficial",
+        "vpn-client"
+      ],
+      "stars": 412,
+      "readme_snippet": "<div align=\"center\">\n\n# FoxyVPN - Unofficial Firefox VPN Client\n\n<p align=\"center\">\n  <img src=\"https://i.ibb.co/8D9KdmNk/6a07263d16c0.png\" alt=\"FoxyVPN Logo\" width=\"150\"/>\n</p>\n\n![Android](https://img.shields.io/badge/Android-212121?style=for-the-badge&logo=android&logoColor=white)\n![Kotlin](https://img.shields.io/badge/Kotlin-212121?style=for-the-badge&logo=kotlin&logoColor=white)\n![Compose](https://img.shields.io/badge/Jetpack%20Compose-212121?style=for-the-badge&logo=android&logoColor=white)\n![Sing-Box](https://img.shields.io/badge/Sing--Box-212121?style=for-the-badge&logo=go&logoColor=white)\n![License](https://img.shields.io/badge/License_MIT-212121?style=for-the-badge)\n\n*FoxyVPN is a modern, privacy-focused Android client for Mozilla's Firefox VPN service. Powered by a customized sing-box core, it connects directly to Mozilla's global Fastly edge network using high-performance MASQUE protocol with HTTP/2 and HTTP/3 support.*\n\n</div>\n\n<br>\n\n## ✨ Features\n\n### Core & Privacy\n- **Fi"
     }
   ]
 }
