@@ -817,6 +817,32 @@
       ],
       "stars": 412,
       "readme_snippet": "<div align=\"center\">\n\n# FoxyVPN - Unofficial Firefox VPN Client\n\n<p align=\"center\">\n  <img src=\"https://i.ibb.co/8D9KdmNk/6a07263d16c0.png\" alt=\"FoxyVPN Logo\" width=\"150\"/>\n</p>\n\n![Android](https://img.shields.io/badge/Android-212121?style=for-the-badge&logo=android&logoColor=white)\n![Kotlin](https://img.shields.io/badge/Kotlin-212121?style=for-the-badge&logo=kotlin&logoColor=white)\n![Compose](https://img.shields.io/badge/Jetpack%20Compose-212121?style=for-the-badge&logo=android&logoColor=white)\n![Sing-Box](https://img.shields.io/badge/Sing--Box-212121?style=for-the-badge&logo=go&logoColor=white)\n![License](https://img.shields.io/badge/License_MIT-212121?style=for-the-badge)\n\n*FoxyVPN is a modern, privacy-focused Android client for Mozilla's Firefox VPN service. Powered by a customized sing-box core, it connects directly to Mozilla's global Fastly edge network using high-performance MASQUE protocol with HTTP/2 and HTTP/3 support.*\n\n</div>\n\n<br>\n\n## ✨ Features\n\n### Core & Privacy\n- **Fi"
+    },
+    {
+      "id": 825187044,
+      "repo": "amir1376/ab-download-manager",
+      "url": "https://github.com/amir1376/ab-download-manager",
+      "description": "A Download Manager that speeds up your downloads",
+      "language": "Kotlin",
+      "topics": [
+        "chrome",
+        "compose",
+        "compose-desktop",
+        "compose-multiplatform",
+        "desktop",
+        "desktop-app",
+        "download",
+        "download-manager",
+        "downloader",
+        "downloadmanager",
+        "firefox",
+        "kotlin",
+        "kotlin-multiplatform",
+        "linux",
+        "windows"
+      ],
+      "stars": 19050,
+      "readme_snippet": "<div align=\"center\">\n  <a href=\"https://abdownloadmanager.com\" target=\"_blank\">\n    <img width=\"180\" src=\"assets/logo/app_logo_with_background.svg\" alt=\"AB Download Manager Logo\">\n  </a>\n</div>\n<h1 align=\"center\">AB Download Manager</h1>\n<p align=\"center\">\n    <a href=\"https://github.com/amir1376/ab-download-manager/releases/latest\"><img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/amir1376/ab-download-manager?color=greenlight&label=latest%20release\"></a>\n    <a href=\"https://abdownloadmanager.com\"><img alt=\"AB Download Manager Website\" src=\"https://img.shields.io/badge/project-website-purple?&labelColor=gray\"></a>\n    <a href=\"https://t.me/abdownloadmanager\"><img alt=\"Telegram Channel\" src=\"https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&labelColor=gray\"></a>\n    <a href=\"https://t.me/abdownloadmanager_discussion\"><img alt=\"Telegram Group\" src=\"https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&labelColor=gray\"></a>\n    <a href=\"https:"
     }
   ]
 }
