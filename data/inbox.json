@@ -843,6 +843,37 @@
       ],
       "stars": 19050,
       "readme_snippet": "<div align=\"center\">\n  <a href=\"https://abdownloadmanager.com\" target=\"_blank\">\n    <img width=\"180\" src=\"assets/logo/app_logo_with_background.svg\" alt=\"AB Download Manager Logo\">\n  </a>\n</div>\n<h1 align=\"center\">AB Download Manager</h1>\n<p align=\"center\">\n    <a href=\"https://github.com/amir1376/ab-download-manager/releases/latest\"><img alt=\"GitHub Release\" src=\"https://img.shields.io/github/v/release/amir1376/ab-download-manager?color=greenlight&label=latest%20release\"></a>\n    <a href=\"https://abdownloadmanager.com\"><img alt=\"AB Download Manager Website\" src=\"https://img.shields.io/badge/project-website-purple?&labelColor=gray\"></a>\n    <a href=\"https://t.me/abdownloadmanager\"><img alt=\"Telegram Channel\" src=\"https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&labelColor=gray\"></a>\n    <a href=\"https://t.me/abdownloadmanager_discussion\"><img alt=\"Telegram Group\" src=\"https://img.shields.io/badge/Telegram-Group-blue?logo=telegram&labelColor=gray\"></a>\n    <a href=\"https:"
+    },
+    {
+      "id": 13428264,
+      "repo": "ShareX/ShareX",
+      "url": "https://github.com/ShareX/ShareX",
+      "description": "ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.",
+      "language": "C#",
+      "topics": [
+        "avalonia",
+        "capture",
+        "color-picker",
+        "csharp",
+        "dropbox",
+        "file-sharing",
+        "file-upload",
+        "ftp",
+        "gif",
+        "gif-recorder",
+        "image-annotation",
+        "ocr",
+        "productivity",
+        "region-capture",
+        "screen-capture",
+        "screen-recorder",
+        "screenshot",
+        "share",
+        "sharex",
+        "url-shortener"
+      ],
+      "stars": 40970,
+      "readme_snippet": "<p align=\"center\"><a href=\"https://getsharex.com\"><img src=\"https://getsharex.com/img/ShareX_Banner.png\" alt=\"ShareX Banner\"/></a></p>\n<h3 align=\"center\">Screen capture, file sharing and productivity tool</h3>\n<br>\n<div align=\"center\">\n  <a href=\"https://github.com/ShareX/ShareX/actions/workflows/build.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/ShareX/ShareX/build.yml?branch=develop&label=Build&cacheSeconds=3600\" alt=\"GitHub Workflow Status\"/></a>\n  <a href=\"./LICENSE.txt\"><img src=\"https://img.shields.io/github/license/ShareX/ShareX?label=License&color=brightgreen&cacheSeconds=3600\" alt=\"License\"/></a>\n  <a href=\"https://github.com/ShareX/ShareX/releases/latest\"><img src=\"https://img.shields.io/github/v/release/ShareX/ShareX?label=Release&color=brightgreen&cacheSeconds=3600\" alt=\"Release\"/></a>\n  <a href=\"https://getsharex.com/downloads\"><img src=\"https://img.shields.io/github/downloads/ShareX/ShareX/total?label=Downloads&cacheSeconds=3600\" alt=\"Downloads\"/><"
     }
   ]
 }
