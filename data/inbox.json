@@ -874,6 +874,48 @@
       ],
       "stars": 40970,
       "readme_snippet": "<p align=\"center\"><a href=\"https://getsharex.com\"><img src=\"https://getsharex.com/img/ShareX_Banner.png\" alt=\"ShareX Banner\"/></a></p>\n<h3 align=\"center\">Screen capture, file sharing and productivity tool</h3>\n<br>\n<div align=\"center\">\n  <a href=\"https://github.com/ShareX/ShareX/actions/workflows/build.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/ShareX/ShareX/build.yml?branch=develop&label=Build&cacheSeconds=3600\" alt=\"GitHub Workflow Status\"/></a>\n  <a href=\"./LICENSE.txt\"><img src=\"https://img.shields.io/github/license/ShareX/ShareX?label=License&color=brightgreen&cacheSeconds=3600\" alt=\"License\"/></a>\n  <a href=\"https://github.com/ShareX/ShareX/releases/latest\"><img src=\"https://img.shields.io/github/v/release/ShareX/ShareX?label=Release&color=brightgreen&cacheSeconds=3600\" alt=\"Release\"/></a>\n  <a href=\"https://getsharex.com/downloads\"><img src=\"https://img.shields.io/github/downloads/ShareX/ShareX/total?label=Downloads&cacheSeconds=3600\" alt=\"Downloads\"/><"
+    },
+    {
+      "id": 377430603,
+      "repo": "yt-dlp/FFmpeg-Builds",
+      "url": "https://github.com/yt-dlp/FFmpeg-Builds",
+      "description": "FFmpeg Builds for yt-dlp",
+      "language": "Shell",
+      "topics": [
+        "ffmpeg-builds",
+        "yt-dlp"
+      ],
+      "stars": 1369,
+      "readme_snippet": "# FFmpeg Static Auto-Builds\n\n\nThis repository provides static Windows (x86 and x86_64) and Linux (x86_64, arm64) Builds of [FFmpeg master](https://github.com/FFmpeg/FFmpeg) and [latest release branch](https://github.com/FFmpeg/FFmpeg/tree/release/7.1) **with some patches necessary for smooth integration with [yt-dlp](https://github.com/yt-dlp/yt-dlp)**\n\n**Note**: The builds provided are only meant to be used with yt-dlp and any unrelated issues/patches will be rejected\n\n\n## Downloads\n\n[![Linux x64 GPL master](https://img.shields.io/badge/-Linux_x64-crimson.svg?style=for-the-badge&logo=linux)](https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz \"Linux x64 GPL master\")\n[![Linux ARM64 GPL master](https://img.shields.io/badge/-Linux_ARM64-orangered.svg?style=for-the-badge&logo=linux)](https://github.com/yt-dlp/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linuxarm64-gpl.tar.xz \"Linux ARM64 GPL master\")\n[![Windows x64 GPL ma"
+    },
+    {
+      "id": 1075623312,
+      "repo": "InterceptSuite/ProxyBridge",
+      "url": "https://github.com/InterceptSuite/ProxyBridge",
+      "description": "Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic",
+      "language": "C",
+      "topics": [
+        "c",
+        "cybersecurity",
+        "http3",
+        "httpproxy",
+        "linux",
+        "linux-proxy",
+        "macos",
+        "macos-app",
+        "macos-proxy",
+        "proxifier",
+        "proxifier-alternative",
+        "proxy-client",
+        "proxyclient",
+        "tcp",
+        "thick-client",
+        "udp",
+        "windivert",
+        "windows"
+      ],
+      "stars": 7113,
+      "readme_snippet": "# ProxyBridge\n\n<p align=\"center\">\n  <img src=\"img/logo.png\" alt=\"ProxyBridge Logo\" width=\"300\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-windows.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-windows.yml/badge.svg\" alt=\"Build Windows\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-mac.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-mac.yml/badge.svg\" alt=\"Build macOS\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-linux.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-linux.yml/badge.svg\" alt=\"Build Linux\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/releases\"><img src=\"https://img.shields.io/github/downloads/InterceptSuite/ProxyBridge/total?style=flat-square&logo=github&color=blue\" alt=\"Total Downloads\" /></a>\n"
     }
   ]
 }
