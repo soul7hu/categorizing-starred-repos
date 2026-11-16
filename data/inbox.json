@@ -916,6 +916,37 @@
       ],
       "stars": 7113,
       "readme_snippet": "# ProxyBridge\n\n<p align=\"center\">\n  <img src=\"img/logo.png\" alt=\"ProxyBridge Logo\" width=\"300\" />\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-windows.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-windows.yml/badge.svg\" alt=\"Build Windows\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-mac.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-mac.yml/badge.svg\" alt=\"Build macOS\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-linux.yml\"><img src=\"https://github.com/InterceptSuite/ProxyBridge/actions/workflows/build-linux.yml/badge.svg\" alt=\"Build Linux\" /></a>\n  <a href=\"https://github.com/InterceptSuite/ProxyBridge/releases\"><img src=\"https://img.shields.io/github/downloads/InterceptSuite/ProxyBridge/total?style=flat-square&logo=github&color=blue\" alt=\"Total Downloads\" /></a>\n"
+    },
+    {
+      "id": 1155787322,
+      "repo": "tonhowtf/omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "A local MCP server that gives your coding agent a desktop toolbox: downloads from YouTube, torrents and every site yt-dlp supports, media conversion, files, chats and system cleanup. One line connects Claude Code, Codex, Cursor or Gemini CLI, and sensitive actions wait for your click. Free and open source for Windows, macOS and Linux.",
+      "language": "Rust",
+      "topics": [
+        "agent-client-protocol",
+        "claude-code",
+        "codex-cli",
+        "coding-agent",
+        "download-manager",
+        "downloader",
+        "gallery-dl",
+        "instagram-downloader",
+        "local-llm",
+        "mcp-server",
+        "media-downloader",
+        "model-context-protocol",
+        "omniget",
+        "tiktok-downloader",
+        "torrent",
+        "twitter-downloader",
+        "video-downloader",
+        "youtube-downloader",
+        "yt-dlp",
+        "yt-dlp-gui"
+      ],
+      "stars": 14458,
+      "readme_snippet": "<h1 align=\"center\">OmniGet</h1>\n\n<p align=\"center\">\n  <b>English</b>\n  · <a href=\"README.pt-BR.md\">Português (Brasil)</a>\n  · <a href=\"README.ru.md\">Русский</a>\n  · <a href=\"README.zh-CN.md\">简体中文</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://getomniget.com\"><img src=\"assets/readme/loop-mcp-hero.gif\" alt=\"Loop, the OmniGet mascot, rides an orange plug like a rocket while its cables reach three terminal windows\" width=\"820\" /></a>\n</p>\n\n<h3 align=\"center\">An MCP server that gives your coding agent a whole desktop toolbox.</h3>\n\n<p align=\"center\">\n  Downloads, media, files, your chats and your computer, behind one local server.<br/>\n  Free, open source, and everything runs on your machine.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://getomniget.com/download\"><img src=\"https://img.shields.io/badge/Download_for_Windows,_macOS_or_Linux-→-F28500?style=for-the-badge\" alt=\"Download OmniGet for Windows, macOS or Linux\" height=\"40\" /></a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://getomniget.co"
     }
   ]
 }
