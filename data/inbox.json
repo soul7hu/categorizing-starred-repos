@@ -975,6 +975,16 @@
       ],
       "stars": 14890,
       "readme_snippet": "# 🌐 Claim Free Domains — Powered by Stackryze\n\n\n<p align=\"center\">\n  <a href=\"https://trendshift.io/repositories/44275?utm_source=trendshift-badge&utm_medium=badge&utm_campaign=badge-trendshift-44275\">\n    <img\n      src=\"https://trendshift.io/api/badge/trendshift/repositories/44275/daily?language=JavaScript\"\n      alt=\"stackryze/FreeDomains | Trendshift\"\n      width=\"250\"\n      height=\"55\"\n    />\n  </a>\n</p>\n\n\n**Stackryze Domains** runs **Multiple** Domains Names, a free managed subdomain service for developers, students, and open-source communities.\n\nClaim a domain and point it to any hosting provider or your own infrastructure. You get full ownership and complete control.\n\n**Build fast. Deploy freely. No lock-in.**\n\n---\n\n## Why US?\n\nOur goal is simple: remove cost and complexity from getting online.\n\n- Free managed domains  \n- Works with any hosting or DNS provider  \n- Built for students, developers, and OSS projects  \n- Transparent, community-driven, and reliable  \n\n---\n\n## 🌍 Avail"
+    },
+    {
+      "id": 1468323153,
+      "repo": "mallahyari/tiny-ava",
+      "url": "https://github.com/mallahyari/tiny-ava",
+      "description": "tiny-ava: 4.5M-parameter Persian (Farsi) TTS models (PyTorch & ONNX, 24 kHz, 38-77x real-time on CPU)",
+      "language": "Kotlin",
+      "topics": [],
+      "stars": 116,
+      "readme_snippet": "# tiny-ava\n\nA **4.5M-parameter (~18 MB PyTorch / ~20 MB ONNX)** Persian (Farsi) text-to-speech model trained **from scratch** on ~20 hours of synthetic speech, built on top of [`tiny-voca`](https://github.com/n4ze3m/tiny-voca). It runs **38×–77× faster than real time on CPU** and **100% client-side in your browser** via ONNX Runtime Web (~29 MB total including Persian G2P).\n\n- **Live in-browser demo:** https://huggingface.co/spaces/mehdi-hf/tiny-ava-demo\n- **Android App (Offline TalkBack TTS):** [Download `tiny-ava-v1.0.0-arm64.apk` (57 MB)](https://github.com/mallahyari/tiny-ava/releases/latest/download/tiny-ava-v1.0.0-arm64.apk) · [All Releases](https://github.com/mallahyari/tiny-ava/releases)\n- **Hugging Face model:** https://huggingface.co/mehdi-hf/tiny-ava\n\n![tiny-ava browser demo](assets/demo-screenshot.png)\n\n---\n\n## Android App (100% Offline Persian TalkBack Engine)\n\n![tiny-ava Android app — High-Contrast accessibility theme on Pixel 3](assets/android-screenshots.png)\n\n![tiny-av"
     }
   ]
 }
