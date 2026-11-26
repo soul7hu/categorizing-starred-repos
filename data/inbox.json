@@ -985,6 +985,16 @@
       "topics": [],
       "stars": 116,
       "readme_snippet": "# tiny-ava\n\nA **4.5M-parameter (~18 MB PyTorch / ~20 MB ONNX)** Persian (Farsi) text-to-speech model trained **from scratch** on ~20 hours of synthetic speech, built on top of [`tiny-voca`](https://github.com/n4ze3m/tiny-voca). It runs **38×–77× faster than real time on CPU** and **100% client-side in your browser** via ONNX Runtime Web (~29 MB total including Persian G2P).\n\n- **Live in-browser demo:** https://huggingface.co/spaces/mehdi-hf/tiny-ava-demo\n- **Android App (Offline TalkBack TTS):** [Download `tiny-ava-v1.0.0-arm64.apk` (57 MB)](https://github.com/mallahyari/tiny-ava/releases/latest/download/tiny-ava-v1.0.0-arm64.apk) · [All Releases](https://github.com/mallahyari/tiny-ava/releases)\n- **Hugging Face model:** https://huggingface.co/mehdi-hf/tiny-ava\n\n![tiny-ava browser demo](assets/demo-screenshot.png)\n\n---\n\n## Android App (100% Offline Persian TalkBack Engine)\n\n![tiny-ava Android app — High-Contrast accessibility theme on Pixel 3](assets/android-screenshots.png)\n\n![tiny-av"
+    },
+    {
+      "id": 1306264186,
+      "repo": "Imanm02/flowmpeg",
+      "url": "https://github.com/Imanm02/flowmpeg",
+      "description": "Build readable media jobs as a typed FFmpeg graph, inspect the exact command before it runs, then execute it from the CLI, Python, or a local browser UI",
+      "language": "Python",
+      "topics": [],
+      "stars": 37,
+      "readme_snippet": "# Flowmpeg\n\n[![CI](https://github.com/Imanm02/flowmpeg/actions/workflows/ci.yml/badge.svg)](https://github.com/Imanm02/flowmpeg/actions/workflows/ci.yml)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)\n[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)\n\nReadable media jobs with inspectable FFmpeg commands.\n\nI wrote Flowmpeg because a useful FFmpeg command can become difficult to\nreview once it has several inputs, filter labels, and stream maps. Flowmpeg\nkeeps those details in a typed media graph, then gives me the exact command\nbefore I choose to run it.\n\nPython plans do not start work while they are being built. I can inspect a\ncommand, read its explanation, or pass the plan to the process runner. The\ninstalled command is there when I want to run the same kind of job from CMD.\n\n## Install from GitHub\n\nFlowmpeg needs Python 3.10 or newer. FFmpeg and FFprobe can be found through\n`PATH`, or passed by ex"
     }
   ]
 }
