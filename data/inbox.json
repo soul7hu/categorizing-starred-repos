@@ -995,6 +995,32 @@
       "topics": [],
       "stars": 37,
       "readme_snippet": "# Flowmpeg\n\n[![CI](https://github.com/Imanm02/flowmpeg/actions/workflows/ci.yml/badge.svg)](https://github.com/Imanm02/flowmpeg/actions/workflows/ci.yml)\n[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)\n[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)\n\nReadable media jobs with inspectable FFmpeg commands.\n\nI wrote Flowmpeg because a useful FFmpeg command can become difficult to\nreview once it has several inputs, filter labels, and stream maps. Flowmpeg\nkeeps those details in a typed media graph, then gives me the exact command\nbefore I choose to run it.\n\nPython plans do not start work while they are being built. I can inspect a\ncommand, read its explanation, or pass the plan to the process runner. The\ninstalled command is there when I want to run the same kind of job from CMD.\n\n## Install from GitHub\n\nFlowmpeg needs Python 3.10 or newer. FFmpeg and FFprobe can be found through\n`PATH`, or passed by ex"
+    },
+    {
+      "id": 1346499044,
+      "repo": "jub0t/Concat",
+      "url": "https://github.com/jub0t/Concat",
+      "description": "The open-source CapCut alternative.",
+      "language": "Rust",
+      "topics": [
+        "ffmpeg",
+        "free-video-editor",
+        "model-context-protocol",
+        "non-linear-editor",
+        "offline-first",
+        "open-source-video-editor",
+        "self-hosted",
+        "video-editing",
+        "video-editing-automation",
+        "video-editing-software",
+        "video-editing-tools",
+        "video-editor",
+        "voice-cloning",
+        "youtube-automation",
+        "youtube-shorts"
+      ],
+      "stars": 21845,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/concat-mark-dark.png\" alt=\"Concat\" width=\"100\" />\n</p>\n\n<h1 align=\"center\">Concat</h1>\n<h3 align=\"center\">The free, open-source, cross-platform video editor.</h3>\n\n<div align=\"center\">\n\n<img src=\"https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png\" alt=\"Concat editor\" width=\"100%\" />\n\n<p align=\"center\">\n  <a href=\"https://github.com/jub0t/Concat/releases\"><img src=\"https://img.shields.io/github/downloads/jub0t/concat/total?style=flat&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=0568FD\" alt=\"Total Downloads\" /></a>\n  <a href=\"https://github.com/jub0t/Concat/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/jub0t/Concat/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000\" alt=\"Build Status\" /></a>\n  <a href=\"https://github.com/jub0t/Concat/releases\"><img src=\"https://img.shields.io/badge/Version-0.2"
     }
   ]
 }
