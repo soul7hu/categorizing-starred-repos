@@ -1021,6 +1021,46 @@
       ],
       "stars": 21845,
       "readme_snippet": "<p align=\"center\">\n  <img src=\"https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/concat-mark-dark.png\" alt=\"Concat\" width=\"100\" />\n</p>\n\n<h1 align=\"center\">Concat</h1>\n<h3 align=\"center\">The free, open-source, cross-platform video editor.</h3>\n\n<div align=\"center\">\n\n<img src=\"https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png\" alt=\"Concat editor\" width=\"100%\" />\n\n<p align=\"center\">\n  <a href=\"https://github.com/jub0t/Concat/releases\"><img src=\"https://img.shields.io/github/downloads/jub0t/concat/total?style=flat&logo=github&logoColor=F8F8F8&label=Downloads&labelColor=212123&color=0568FD\" alt=\"Total Downloads\" /></a>\n  <a href=\"https://github.com/jub0t/Concat/actions/workflows/ci.yml\"><img src=\"https://img.shields.io/github/actions/workflow/status/jub0t/Concat/ci.yml?style=flat&logo=githubactions&logoColor=F8F8F8&label=Build&labelColor=000000\" alt=\"Build Status\" /></a>\n  <a href=\"https://github.com/jub0t/Concat/releases\"><img src=\"https://img.shields.io/badge/Version-0.2"
+    },
+    {
+      "id": 1431910595,
+      "repo": "ParsaAb13/hamrah",
+      "url": "https://github.com/ParsaAb13/hamrah",
+      "description": "A lightweight, Persian-first interface for chatting with local language models through Ollama, including offline use after setup.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 4,
+      "readme_snippet": "# hamrah | همراه\n\n**یک رابط کاربری سبک، فارسی و مستقل برای تعامل با مدل‌های زبانی محلی**\n\n<p align=\"center\">\n  <img width=\"220\" alt=\"Hamrah Logo\" src=\"https://github.com/user-attachments/assets/c7f621e6-d541-4ed7-b90e-af1efc1285c1\" />\n</p>\n\n<p align=\"center\">\n  <strong>نسخه 1.0.0</strong> |\n  <a href=\"https://github.com/ParsaAb13/hamrah/releases\">دریافت نسخه‌ها</a> |\n  <a href=\"https://github.com/ParsaAb13/hamrah/issues\">گزارش مشکلات</a>\n</p>\n\nهمراه (Hamrah) یک رابط کاربری تحت وب، فارسی و راست‌چین برای گفتگو با مدل‌های زبانی محلی است که از طریق [Ollama](https://ollama.com/) اجرا می‌شوند.\n\nاین پروژه با هدف ساده‌تر کردن دسترسی به مدل‌های زبانی طراحی شده است؛ به‌گونه‌ای که کاربران بتوانند بدون نیاز به استفاده از ترمینال یا نصب یک نرم‌افزار دسکتاپ سنگین، در محیطی ساده و آشنا با مدل‌های محلی تعامل داشته باشند.\n\nهمراه تلاش می‌کند میان سادگی، کارایی و استقلال از سرویس‌های ابری تعادل برقرار کند.\n\n> **وضعیت پروژه:** نسخه `1.0.0` منتشر شده است.\n\n---\n\n## 1. چرا همراه؟\n\nمدل‌های زبانی به بخش مهمی ا"
+    },
+    {
+      "id": 1470690325,
+      "repo": "Abolfazlshahi/QuickOCR",
+      "url": "https://github.com/Abolfazlshahi/QuickOCR",
+      "description": "QuickOCR",
+      "language": "Python",
+      "topics": [],
+      "stars": 18,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"assets/logo.png\" width=\"104\" alt=\"QuickOCR Logo\" />\n</p>\n\n<h1 align=\"center\">QuickOCR</h1>\n\n<p align=\"center\">\n  Minimal, offline-first Windows &amp; Linux screen &amp; clipboard OCR utility powered by <b>OCRia-nano-1</b>, <b>Surya OCR</b>, <b>EasyOCR</b>, <b>PP-OCRv6 / v5 / v4</b>, <b>Tesseract Best LSTM</b>, <b>Marker</b>, and Vision LLMs with a pure-black animated PySide6 UI.\n</p>\n\n<p align=\"center\">\n  <a href=\"https://t.me/pythash\"><img src=\"https://img.shields.io/badge/Telegram-%40pythash-24A1DE?style=flat-square&logo=telegram&logoColor=white\" alt=\"Telegram @pythash\" /></a>\n  <img src=\"https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-000000?style=flat-square\" alt=\"Windows and Linux\" />\n  <img src=\"https://img.shields.io/badge/Python-3.10%2B-000000?style=flat-square\" alt=\"Python\" />\n  <img src=\"https://img.shields.io/badge/License-MIT-000000?style=flat-square\" alt=\"License\" />\n</p>\n\n<p align=\"center\">\n  Join our Telegram channel <a href=\"ht"
+    },
+    {
+      "id": 1430978775,
+      "repo": "omoghadasi/subtitle-booster",
+      "url": "https://github.com/omoghadasi/subtitle-booster",
+      "description": "",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "readme_snippet": "# زیرنویس‌بوستر — زیرنویس درشت و خوانا برای تلویزیون\n\nیک اسکریپت سادهٔ پایتون که یک فیلم می‌گیرد و همان فیلم را با **زیرنویس درشت‌تر و دارای استروک (حاشیهٔ) مشکی** تحویل می‌دهد؛ مخصوص تلویزیون‌هایی که تنظیمات زیرنویس ندارند.\n\n- ورودی: فیلم (mkv / mp4 / …)\n- خروجی: MP4 با زیرنویس سوخته (H.264 + AAC) که هر تلویزیونی پخش می‌کند\n- فارسی و راست‌به‌چپ به‌درستی رندر می‌شود (فونت Vazirmatn همراه پروژه است)\n\n| قبل | بعد |\n|---|---|\n| ![](docs/soft-before.png) | ![](docs/soft-after.png) |\n\n---\n\n## ۱. اول ببینید زیرنویس شما از چه نوعی است\n\nدو حالت وجود دارد و این اسکریپت هر دو را تشخیص می‌دهد:\n\n| نوع | نشانه | کیفیت کار |\n|---|---|---|\n| **زیرنویس متنی (soft)** | یک جریان زیرنویس جدا داخل فایل است (SRT/ASS/MOV_TEXT) | عالی؛ دوباره با فونت بزرگ و استروک چاپ می‌شود |\n| **زیرنویس چسبیده (hardsub)** | متن جزو تصویر است و جریان زیرنویس جدا ندارد | تقریبی؛ تصویرِ زیرنویس بزرگ و استروک‌دار می‌شود |\n\nبرای تشخیص:\n\n```bash\npython3 booster.py \"فیلم.mkv\" --info\n```\n\nاگر در خروجی `زیرنویس: #2 subrip [متنی]` د"
+    },
+    {
+      "id": 1474426578,
+      "repo": "alipyth/varagh_book_reader",
+      "url": "https://github.com/alipyth/varagh_book_reader",
+      "description": "The Bood Library And Reader for Persian Users , Support API,LOCAL AI , AND CLI TO API :)",
+      "language": "Python",
+      "topics": [],
+      "stars": 14,
+      "readme_snippet": "<p align=\"center\">\n  <img src=\"docs/assets/banner.svg\" alt=\"Varagh Book Reader Banner\" width=\"100%\">\n</p>\n\n<p align=\"center\">\n  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href=\"README.fa.md\">🇮🇷 راهنمای فارسی (Persian README)</a>\n</p>\n\n<p align=\"center\">\n  <a href=\"https://github.com/alipyth/CLI_to_API\"><img src=\"https://img.shields.io/badge/Powered%20by-CLI__to__API-0E7490?style=flat-square\" alt=\"CLI_to_API\"></a>\n  <img src=\"https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white\" alt=\"Python 3.10+\">\n  <img src=\"https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white\" alt=\"FastAPI\">\n  <img src=\"https://img.shields.io/badge/Math-KaTeX%20%2B%20Live%20Plots-E3A92B?style=flat-square\" alt=\"KaTeX\">\n  <img src=\"https://img.shields.io/badge/Memory-FSRS%20%2B%20Obsidian-6A4BA6?style=flat-square\" alt=\"FSRS\">\n</p>\n\n# Varagh Book Reader (ورق)\n\n**Varagh** is a local-first, AI-powered **bilingual deep-learning book reader** "
     }
   ]
 }
